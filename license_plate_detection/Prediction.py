@@ -32,7 +32,7 @@ def label_to_hangul(label):  # eng -> hangul
         region = label[0]
         two_num = label[1:3]
         hangul = label[3:5]
-        four_num = label[5:]
+        four_num = label[5:9]
         try:
             region = Region[region] if region != 'Z' else ''
         except:
@@ -42,11 +42,14 @@ def label_to_hangul(label):  # eng -> hangul
         except:
             pass
         return region + two_num + hangul + four_num
-    elif len(label) == 10:
+    if len(label) ==10:
+        print("label:",label)
         region = label[0]
         three_num = label[1:4]
         hangul = label[4:6]
         four_num = label[6:]
+        if len(four_num)==5:
+            four_num = label[6:10]
         try:
             region = Region[region] if region != 'Z' else ''
         except:

@@ -1,3 +1,13 @@
+'''from tensorflow.keras import backend as K
+from tensorflow.keras.layers import Conv2D, MaxPooling2D
+from tensorflow.keras.layers import Input, Dense, Activation
+from tensorflow.keras.layers import Reshape, Lambda, BatchNormalization
+from tensorflow.keras.layers import add, concatenate
+from tensorflow.keras.models import Model
+from tensorflow.keras.layers import LSTM
+from parameter import *
+K.set_learning_phase(0)
+'''
 from keras import backend as K
 from keras.layers import Conv2D, MaxPooling2D
 from keras.layers import Input, Dense, Activation
@@ -6,7 +16,6 @@ from keras.layers.merge import add, concatenate
 from keras.models import Model
 from keras.layers.recurrent import LSTM
 from parameter import *
-K.set_learning_phase(0)
 
 # # Loss and train functions, network architecture
 def ctc_lambda_func(args):
@@ -77,7 +86,9 @@ def get_Model(training):
     inner = Dense(num_classes, kernel_initializer='he_normal',name='dense2')(lstm2_merged) #(None, 32, 63)
     y_pred = Activation('softmax', name='softmax')(inner)
 
+    # max_text_len 이 10일경우와 9 일 경우가 있다. -> 고려할 필요가 있음.
     labels = Input(name='the_labels', shape=[max_text_len], dtype='float32') # (None ,8)
+    
     input_length = Input(name='input_length', shape=[1], dtype='int64')     # (None, 1)
     label_length = Input(name='label_length', shape=[1], dtype='int64')     # (None, 1)
 

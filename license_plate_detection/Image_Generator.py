@@ -8,7 +8,9 @@ def labels_to_text(labels):     # letters의 index -> text (string)
     return ''.join(list(map(lambda x: letters[int(x)], labels)))
 
 def text_to_labels(text):      # text를 letters 배열에서의 인덱스 값으로 변환
+
     return list(map(lambda x: letters.index(x), text))
+
 
 
 class TextImageGenerator:
@@ -59,24 +61,39 @@ class TextImageGenerator:
                 img, text = self.next_sample()
                 #print("text size :",len(text))
                 #print("Y_data:", Y_data.shape)
+                
                 if len(text) == 9:
-                    Y_data = np.ones([self.batch_size, 9]) 
+                    #Y_data = np.ones([self.batch_size, 9]) 
+                    img = img.T
+                    img = np.expand_dims(img, -1)
+                    X_data[i] = img
+                   # print("Y_DATA[i] in batch:",Y_data[i])
+                   # print("text",text)
+                   # print("textType",type(text))
+                   # print("text_to_labels(text):",text_to_labels(text))
+                   # print(type(text_to_labels(text)))
+                    text = text+"0"
+                    Y_data[i] = text_to_labels(text)
+                    #Y_data[i] = text_to_labels(text).append(0)
+                    label_length[i] = len(text)
+                else :
                     img = img.T
                     img = np.expand_dims(img, -1)
                     X_data[i] = img
                     Y_data[i] = text_to_labels(text)
                     label_length[i] = len(text)
-                elif len(text) == 10:
-                    Y_data = np.ones([self.batch_size, 10]) 
-                    img = img.T
-                    img = np.expand_dims(img, -1)
-                    X_data[i] = img
-                    Y_data[i] = text_to_labels(text)
-                    label_length[i] = len(text)
+                
             # dict 형태로 복사
+            '''
+                img = img.T
+                img = np.expand_dims(img, -1)
+                X_data[i] = img
+                Y_data[i] = text_to_labels(text)
+                label_length[i] = len(text)
+            '''
             inputs = {
                 'the_input': X_data,  # (bs, 128, 64, 1)
-                'the_labels': Y_data,  # (bs, 8)
+                'the_labels': Y_data,  # (bs, 8)  # max_text_len 이 10일경우와 9 일 경우가 있다. -> 고려할 필요가 있음.
                 'input_length': input_length,  # (bs, 1) -> 모든 원소 value = 30
                 'label_length': label_length  # (bs, 1) -> 모든 원소 value = 8
             }

@@ -1,10 +1,10 @@
-from keras import backend as K
-from keras.layers import Conv2D, MaxPooling2D
-from keras.layers import Input, Dense, Activation
-from keras.layers import Reshape, Lambda, BatchNormalization
-from keras.layers.merge import add, concatenate
-from keras.models import Model
-from keras.layers.recurrent import GRU
+from tensorflow.keras import backend as K
+from tensorflow.keras.layers import Conv2D, MaxPooling2D
+from tensorflow.keras.layers import Input, Dense, Activation
+from tensorflow.keras.layers import Reshape, Lambda, BatchNormalization
+from tensorflow.keras.layers import add, concatenate
+from tensorflow.keras.models import Model
+from tensorflow.keras.layers import GRU
 from parameter import *
 K.set_learning_phase(1)
 
@@ -14,6 +14,7 @@ def ctc_lambda_func(args):
     # the 2 is critical here since the first couple outputs of the RNN
     # tend to be garbage:
     y_pred = y_pred[:, 2:, :]
+    print("model:",label_length)
     return K.ctc_batch_cost(labels, y_pred, input_length, label_length)
 
 
