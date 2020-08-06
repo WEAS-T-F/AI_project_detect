@@ -1,7 +1,5 @@
-CHAR_VECTOR = "adefghjknqrstwABCDEFGHIJKLMNOPZ0123456789"
-'
+CHAR_VECTOR = "adefghjknqrstwABCDEFGHIJKLMNOPZ0123456789X"
 
-'
 letters = [letter for letter in CHAR_VECTOR]
 
 num_classes = len(letters) + 1

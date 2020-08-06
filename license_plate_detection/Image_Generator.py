@@ -72,9 +72,10 @@ class TextImageGenerator:
                    # print("textType",type(text))
                    # print("text_to_labels(text):",text_to_labels(text))
                    # print(type(text_to_labels(text)))
-                    text = text+"0"
-                    Y_data[i] = text_to_labels(text)
-                    #Y_data[i] = text_to_labels(text).append(0)
+                   # text가 9자리일경우 끝에 X 추가
+                    #text = text+"X"
+                    #Y_data[i] = text_to_labels(text)
+                    Y_data[i] = text_to_labels(text).append("X")
                     label_length[i] = len(text)
                 else :
                     img = img.T

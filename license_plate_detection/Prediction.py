@@ -23,11 +23,13 @@ def decode_label(out):
     outstr = ''
     for i in out_best:
         if i < len(letters):
-            outstr += letters[i]
+            if letters[i] != "X":
+                outstr += letters[i]
     return outstr
 
 
 def label_to_hangul(label):  # eng -> hangul
+    #print("label in prediction:",label)
     if len(label) == 9:
         region = label[0]
         two_num = label[1:3]
@@ -42,8 +44,22 @@ def label_to_hangul(label):  # eng -> hangul
         except:
             pass
         return region + two_num + hangul + four_num
-    if len(label) ==10:
-        print("label:",label)
+    elif len(label)==10 and label[9] == "X":
+        region = label[0]
+        two_num = label[1:3]
+        hangul = label[3:5]
+        four_num = label[5:9]
+        try:
+            region = Region[region] if region != 'Z' else ''
+        except:
+            pass
+        try:
+            hangul = Hangul[hangul]
+        except:
+            pass
+        return region + two_num + hangul + four_num
+    else:
+        #print("label:",label)
         region = label[0]
         three_num = label[1:4]
         hangul = label[4:6]
@@ -105,6 +121,8 @@ for test_img in test_imgs:
 
     if pred_texts == test_img[0:-4]:
         acc += 1
+    #print("pred_textx:",pred_texts)
+    #print("test_img:",test_img[0:-4])
     total += 1
     print('Predicted: %s  /  True: %s' % (label_to_hangul(pred_texts), label_to_hangul(test_img[0:-4])))
     
