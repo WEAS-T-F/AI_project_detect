@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org/DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="aipd.mapper.DetectMapper">
+	<select id="select" parameterType="String" resultType="detect">
+		SELECT * FROM AIPD_DETECTION WHERE AIPD_DTNUM=#{aipd_DTNUM}
+	</select>
+	<select id="selectall" resultType="detect">
+		SELECT * FROM AIPD_DETECTION
+	</select>
+
+	<insert id="insert" parameterType="detect">
+		INSERT INTO AIPD_DETECTION VALUES (#{aipd_DTNUM},#{aipd_DTDATE},#{aipd_DTPLATENUM},#{aipd_DTIMAGE})
+	
+	</insert>
+	
+	<update id = "update" parameterType = "detect">
+		UPDATE AIPD_DETECTION SET aipd_DTPLATENUM=#{aipd_DTPLATENUM} where AIPD_DTNUM=#{aipd_DTNUM}
+	
+	</update>
+	
+	<delete id = "delete" parameterType = "String">
+		DELETE FROM AIPD_DETECTION WHERE AIPD_DTNUM = #{AIPD_DTNUM}
+	
+	</delete>
+
+
+</mapper>

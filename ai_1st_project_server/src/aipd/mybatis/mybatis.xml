@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org/DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<typeAliases>
+
+		<typeAlias type="aipd.vo.UserVO" alias="user" />
+		<typeAlias type="aipd.vo.DetectVO" alias="detect" />
+	
+	</typeAliases>
+
+	<mappers>
+		<mapper resource="aipd/mybatis/usermapper.xml" />
+		<mapper resource="aipd/mybatis/detectmapper.xml" />
+		
+	</mappers>
+</configuration>
+
