@@ -54,10 +54,10 @@
 			value="oracle.jdbc.driver.OracleDriver" />
 
 		<property name="url"
-			value="jdbc:oracle:thin:@52.78.108.32:1521:XE" />
+			value="jdbc:oracle:thin:@127.0.0.1:XE" />
 
-		<property name="username" value="aipd" />
-		<property name="password" value="aipd" />
+		<property name="username" value="yourid" />
+		<property name="password" value="yourpwd" />
 		
 	</bean>
 	<!-- 2. Transaction Setting -->

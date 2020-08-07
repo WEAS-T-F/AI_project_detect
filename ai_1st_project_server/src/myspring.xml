@@ -57,12 +57,10 @@
 		<!-- 70.12.113.219 -->
 		<!-- 192.168.0.6 -->
 		<property name="url"
-			value="jdbc:oracle:thin:@52.78.108.32:1521:XE" />
-		<property name="username" value="aipd" />
-		<property name="password" value="aipd" />
-		<!-- <property name="url" value="jdbc:oracle:thin:@70.12.113.219:1521:xe" 
-			/> <property name="username" value="sp365" /> <property name="password" value="0365" 
-			/> -->
+			value="jdbc:oracle:thin:@127.0.0.1:1521:XE" />
+		<property name="username" value="yourid" />
+		<property name="password" value="yourpwd" />
+
 	</bean>
 	<!-- 2. Transaction Setting -->
 	<bean id="txManager"
