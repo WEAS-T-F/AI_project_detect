@@ -47,12 +47,14 @@
   
     새로운 데이터셋으로 학습 예정 ( Type1~Type5 각 만장 Type6~Type9 각 2천장 ) + Augmentation 같은 비율
   
-    
-  
   * 서버 백엔드 및 단위 테스트 확인 중 (Spring xml파일 인식 안되는 문제 발생)
   
-  
-  
+* 2020.08.09 진행상황
+
+  * 이미지 비율을 맞춰서 학습시켜보았으나
+  * ![이미지 178](https://user-images.githubusercontent.com/58680436/89727864-79e6ae80-da63-11ea-9431-0494287e7203.png)
+  * ![이미지 180](G:\화면캡쳐\이미지 180.png)
+    * 같은 결과가 도출되었음. -> 다른 방법 구상필요
 
 ---
 
@@ -62,7 +64,7 @@
   * GPU : RTX 2070
   * CUDA : 10.0
   * cuDNN : 7.4.1
-  * tensorflow-gpu : 1.14
+  * tensorflow-gpu : 1.14 // numpy < 1.6
   * keras : 2.1.3
   
   
