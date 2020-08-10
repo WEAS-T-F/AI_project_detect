@@ -1,4 +1,6 @@
-# AI College 팀 프로젝트
+
+
+
 
 > 번호판 인식 기술과 Line Detecion 기술을 활용한 불법주차 탐지 프로젝트
 
@@ -52,18 +54,29 @@
 * 2020.08.09 진행상황
 
   * 이미지 비율을 맞춰서 학습시켜보았으나
-  * ![이미지 178](https://user-images.githubusercontent.com/58680436/89727864-79e6ae80-da63-11ea-9431-0494287e7203.png)
-  * ![이미지 180](G:\화면캡쳐\이미지 180.png)
-    * 같은 결과가 도출되었음. -> 다른 방법 구상필요\
+  
+    ![이미지 178](https://user-images.githubusercontent.com/58680436/89727864-79e6ae80-da63-11ea-9431-0494287e7203.png)![이미지 180](G:\화면캡쳐\이미지 180.png)
+  
+    * 같은 결과가 도출되었음. -> 다른 방법 구상필요
   
 * 2020.08.10 진행상황 
 
   * 데이터 생성 시, 총 9자리 텍스트로 생성되는 타입들에 대하여 마지막에"X" 를 직접 삽입하여 파일을 생성.
   * 지역번호 없을 경우 Z가 들어가는 것과 같이 일단 학습시킨 후 prediction에서 처리 해보려고 함.
 
-  
+  * 08.10 결과 ( 이미지 72485 : 13250  비율로 50epoch 학습, 정확도 88% ) 
+
+    ![이미지 181](https://user-images.githubusercontent.com/58680436/89747931-ead9a500-dafb-11ea-906a-e83d7535682e.png)
+    ![이미지 182](https://user-images.githubusercontent.com/58680436/89747933-ec0ad200-dafb-11ea-8b37-75ed33ea6705.png)
+    ![이미지 183](https://user-images.githubusercontent.com/58680436/89747934-eca36880-dafb-11ea-91d2-244cbe7b3956.png)
+
+
+
+* epoch 와 이미지 수 늘려서 학습 예정
 
 ---
+
+
 
 * 환경
 

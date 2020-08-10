@@ -40,6 +40,7 @@ class TextImageGenerator:
 
             self.imgs[i, :, :] = img
             self.texts.append(img_file[0:-4])
+            #print(img_file[0:-4]) -> X까지 모두 저장된다.
         print(len(self.texts) == self.n)
         print(self.n, " Image Loading finish...")
 
@@ -61,7 +62,13 @@ class TextImageGenerator:
                 img, text = self.next_sample()
                 #print("text size :",len(text))
                 #print("Y_data:", Y_data.shape)
-                
+                img = img.T
+                img = np.expand_dims(img, -1)
+                X_data[i] = img
+                Y_data[i] = text_to_labels(text)
+                label_length[i] = len(text)
+            
+                '''
                 if len(text) == 9:
                     #Y_data = np.ones([self.batch_size, 9]) 
                     img = img.T
@@ -83,15 +90,10 @@ class TextImageGenerator:
                     X_data[i] = img
                     Y_data[i] = text_to_labels(text)
                     label_length[i] = len(text)
-                
+            '''
+
             # dict 형태로 복사
-            '''
-                img = img.T
-                img = np.expand_dims(img, -1)
-                X_data[i] = img
-                Y_data[i] = text_to_labels(text)
-                label_length[i] = len(text)
-            '''
+            
             inputs = {
                 'the_input': X_data,  # (bs, 128, 64, 1)
                 'the_labels': Y_data,  # (bs, 8)  # max_text_len 이 10일경우와 9 일 경우가 있다. -> 고려할 필요가 있음.
