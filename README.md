@@ -57,9 +57,11 @@
 
   * 이미지 비율을 맞춰서 학습시켜보았으나
   
-    <img src="https://user-images.githubusercontent.com/58680436/89727864-79e6ae80-da63-11ea-9431-0494287e7203.png" alt="이미지 178" style="zoom:67%;" />![이미지 180](G:\화면캡쳐\이미지 180.png)
+    <img src="https://user-images.githubusercontent.com/58680436/89727864-79e6ae80-da63-11ea-9431-0494287e7203.png" alt="이미지 178" style="zoom:67%;" />
   
     * 같은 결과가 도출되었음. -> 다른 방법 구상필요
+    
+      
   
 * 2020.08.10 진행상황 
 
