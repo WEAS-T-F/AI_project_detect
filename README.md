@@ -8,7 +8,7 @@
 * 팀원 : 5명
 * 팀명 : AIPD (AI _ Illegal Parking Detection)
 
-<img src="https://user-images.githubusercontent.com/58680436/89865262-5ef17700-dbe8-11ea-902d-3a75e3b5f14e.jpg" alt="Notes_200811_153445_d2a_1" style="zoom: 67%;" />
+<img src="https://user-images.githubusercontent.com/58680436/89865262-5ef17700-dbe8-11ea-902d-3a75e3b5f14e.jpg" alt="Notes_200811_153445_d2a_1" style="zoom: 50%;" />
 
 ---
 
