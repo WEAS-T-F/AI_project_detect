@@ -72,7 +72,18 @@
 
 
 
-* epoch 와 이미지 수 늘려서 학습 예정
+* epoch 와 이미지 수 늘려서 학습 , 99%의 정확도 달성
+
+  ![KakaoTalk_20200810_213715214](https://user-images.githubusercontent.com/58680436/89861884-bb04cd00-dbe1-11ea-8e42-5f2d9ea01f37.png)
+
+### 2020.08.11 진행상황
+
+* 만들어진 Test data에 대해서는 잘 인식하지만, 실제 자동차 사진을 넣었을때는 인식하지 못한다.
+  * 추후 진행방향
+    1. Faster-RCNN 또는 YOLO를 이용하여 Object Detection 구현, 자동차 번호판 위치 찾기
+    2. 찾아낸 번호판을 이진화하여 만들어둔 모델에 학습시킨다.
+
+
 
 ---
 
