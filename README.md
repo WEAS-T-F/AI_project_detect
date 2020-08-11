@@ -34,7 +34,8 @@
 
 * 2자리 번호판 및 3자리 번호판 혼합 인식 학습 모델 (정확도 60%) 구현 , 학습 데이터 9000장 (Loss 값 3.xx)
 
-* <img src="https://user-images.githubusercontent.com/58680436/89638461-d2447180-d8e6-11ea-8b92-c935615e33f8.png" alt="이미지 174" style="zoom:67%;" />
+  <img src="https://user-images.githubusercontent.com/58680436/89638461-d2447180-d8e6-11ea-8b92-c935615e33f8.png" alt="이미지 174" style="zoom:67%;" />
+
 
 1. 학습용 데이터 자체 마지막에 "X"를 붙여서 만들고 학습시키는 방안 시도 예정
   2. 학습용 데이터 및 Augmentation 수량 늘려서 재시도 예정
@@ -93,42 +94,38 @@
           ( ai_1st_project\Faster_RCNN_for_Open_Images_Dataset_Keras-master\Object_detection_datapreprocessing_customby_ydh.ipynb 참고)
     2. 찾아낸 번호판을 이진화하여 만들어둔 모델에 학습시킨다.
 
+----
 
+### 개발환경 
+
+* OS : Windows 10
+
+* GPU : RTX 2070
+
+* CUDA : 10.0
+
+* cuDNN : 7.4.1
+
+* tensorflow-gpu : 1.14 // numpy < 1.6 
+
+  * tensorflow 2.0.0 사용시 keras 앞에 `tensorflow.` 추가하면 모델 작동
+
+    ```python
+    from tensorflow.keras import backend as K
+    from tensorflow.keras.layers import Conv2D, MaxPooling2D
+    from tensorflow.keras.layers import Input, Dense, Activation
+    from tensorflow.keras.layers import Reshape, Lambda, 
+    from tensorflow.keras.layers import add, concatenate
+    from tensorflow.keras.models import Model
+    from tensorflow.keras.layers import LSTM
+    ```
+
+* keras : 2.1.3
 
 ---
 
 
 
-* 환경
-
-  * OS : Windows 10
-  
-  * GPU : RTX 2070
-  
-  * CUDA : 10.0
-  
-  * cuDNN : 7.4.1
-  
-  * tensorflow-gpu : 1.14 // numpy < 1.6 
-  
-    * tensorflow 2.0.0 사용시 keras 앞에 `tensorflow.` 추가하면 모델 작동
-  
-      ```python
-      from tensorflow.keras import backend as K
-      from tensorflow.keras.layers import Conv2D, MaxPooling2D
-      from tensorflow.keras.layers import Input, Dense, Activation
-      from tensorflow.keras.layers import Reshape, Lambda, 
-      from tensorflow.keras.layers import add, concatenate
-      from tensorflow.keras.models import Model
-      from tensorflow.keras.layers import LSTM
-      ```
-  
-      
-  
-  * keras : 2.1.3
-  
-  
-  
 * Refer 하고 있는 github 주소
 
   https://github.com/qjadud1994/CRNN-Keras
