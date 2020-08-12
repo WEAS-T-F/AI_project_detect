@@ -94,6 +94,15 @@
           ( ai_1st_project\Faster_RCNN_for_Open_Images_Dataset_Keras-master\Object_detection_datapreprocessing_customby_ydh.ipynb 참고)
     2. 찾아낸 번호판을 이진화하여 만들어둔 모델에 학습시킨다.
 
+### 2020.08.12 진행상황
+
+* Faster RCNN을 이용한 Object detection 사용방법
+
+  * Data Prerprocessing 에서 원하는 데이터의 label 데이터와 train 데이터, test 데이터를 받을 수 있다. 
+  * Data preprocessing 과정을 거친 후 train 과 test를 실행하여 학습을 진행한다.
+
+  
+
 ----
 
 ### 개발환경 
