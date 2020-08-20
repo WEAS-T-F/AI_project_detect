@@ -33,8 +33,9 @@
 ### 2020.08.07 진행상황
 
 * 2자리 번호판 및 3자리 번호판 혼합 인식 학습 모델 (정확도 60%) 구현 , 학습 데이터 9000장 (Loss 값 3.xx)
-
-  <img src="https://user-images.githubusercontent.com/58680436/89638461-d2447180-d8e6-11ea-8b92-c935615e33f8.png" alt="이미지 174" style="zoom:67%;" />
+<img src="https://user-images.githubusercontent.com/58680436/89638461-d2447180-d8e6-11ea-8b92-c935615e33f8.png" alt="이미지 174" style="zoom: 50%;" />
+  
+  
 
 
 1. 학습용 데이터 자체 마지막에 "X"를 붙여서 만들고 학습시키는 방안 시도 예정
@@ -47,21 +48,21 @@
   * 2자리 번호판이 모두 aaaaaa로 예측
   * 3자리 번호판은 대부분 정확하게 맞춤
 
-  <img src="https://user-images.githubusercontent.com/58680436/89638462-d3759e80-d8e6-11ea-8f77-946bdf6b4d4f.png" alt="이미지 175" style="zoom:67%;" />
-  <img src="https://user-images.githubusercontent.com/58680436/89638465-d3759e80-d8e6-11ea-98bc-1e4939af7337.png" alt="이미지 176" style="zoom:67%;" />
-
-  -> 문제점? : 학습에 사용하는 데이터에 3자리 번호판의 개수가 일반 번호판에 비해 4배가량 많아 발생한 현상으로 추측,
-
-  새로운 데이터셋으로 학습 예정 ( Type1~Type5 각 만장 Type6~Type9 각 2천장 ) + Augmentation 같은 비율
-
+  <img src="https://user-images.githubusercontent.com/58680436/89638462-d3759e80-d8e6-11ea-8f77-946bdf6b4d4f.png" alt="이미지 175" style="zoom:67%;" /> <img src="https://user-images.githubusercontent.com/58680436/89638465-d3759e80-d8e6-11ea-98bc-1e4939af7337.png" alt="이미지 176" style="zoom:67%;" />
+  
+-> 문제점? : 학습에 사용하는 데이터에 3자리 번호판의 개수가 일반 번호판에 비해 4배가량 많아 발생한 현상으로 추측,
+  
+새로운 데이터셋으로 학습 예정 ( Type1~Type5 각 만장 Type6~Type9 각 2천장 ) + Augmentation 같은 비율
+  
 * 서버 백엔드 및 단위 테스트 확인 중 (Spring xml파일 인식 안되는 문제 발생)
 
 ### 2020.08.09 진행상황
 
 * 이미지 비율을 맞춰서 학습시켜보았으나
+<img src="https://user-images.githubusercontent.com/58680436/89727864-79e6ae80-da63-11ea-9431-0494287e7203.png" alt="이미지 178" style="zoom:67%;" />
+  
 
-  <img src="https://user-images.githubusercontent.com/58680436/89727864-79e6ae80-da63-11ea-9431-0494287e7203.png" alt="이미지 178" style="zoom:67%;" />
-
+  
   * 같은 결과가 도출되었음. -> 다른 방법 구상필요
   
     
@@ -72,16 +73,20 @@
 * 지역번호 없을 경우 Z가 들어가는 것과 같이 일단 학습시킨 후 prediction에서 처리 해보려고 함.
 
 * 08.10 결과 ( 이미지 72485 : 13250  비율로 50epoch 학습, 정확도 88% ) 
-
-  <img src="https://user-images.githubusercontent.com/58680436/89747931-ead9a500-dafb-11ea-906a-e83d7535682e.png" alt="이미지 181" style="zoom:67%;" />
+<img src="https://user-images.githubusercontent.com/58680436/89747931-ead9a500-dafb-11ea-906a-e83d7535682e.png" alt="이미지 181" style="zoom: 50%;" />
+  
+  
   <img src="https://user-images.githubusercontent.com/58680436/89747933-ec0ad200-dafb-11ea-8b37-75ed33ea6705.png" alt="이미지 182" style="zoom:67%;" />
   <img src="https://user-images.githubusercontent.com/58680436/89747934-eca36880-dafb-11ea-91d2-244cbe7b3956.png" alt="이미지 183" style="zoom:67%;" />
+  
+  
 
 
 
 * epoch 와 이미지 수 늘려서 학습 , 99%의 정확도 달성
-
-  <img src="https://user-images.githubusercontent.com/58680436/89861884-bb04cd00-dbe1-11ea-8e42-5f2d9ea01f37.png" alt="KakaoTalk_20200810_213715214" style="zoom:67%;" />
+<img src="https://user-images.githubusercontent.com/58680436/89861884-bb04cd00-dbe1-11ea-8e42-5f2d9ea01f37.png" alt="KakaoTalk_20200810_213715214" style="zoom:67%;" />
+  
+  
 
 ### 2020.08.11 진행상황
 
@@ -115,6 +120,16 @@
 
 * 번호판 이미지 생성기에 너트 이미지를 추가해서 이미지를 생성하는 방법 구상중.
 * 모델 학습 시 그래프 나올 수 있도록 코드 추가 ( 테스트 예정 )
+
+### 2020.08.21 진행상황
+
+* 번호판 이미지 재생성 후 RCNN 모델 재학습 ( 약 13만장의 이미지 )
+
+* 결과 : loss값은 매우 낮음, 실제 데이터 학습시 여전히 인식 불가..
+
+  <img src="https://user-images.githubusercontent.com/58680436/90801692-32a8c980-e351-11ea-84d5-7eb7e61ba7d0.png" alt="lossgraph_202008210132" style="zoom: 80%;" />
+
+  
 
 ----
 

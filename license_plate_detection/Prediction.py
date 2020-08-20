@@ -92,7 +92,8 @@ letter_acc = 0
 start = time.time()
 for test_img in test_imgs:
     img = cv2.imread(test_dir + test_img, cv2.IMREAD_GRAYSCALE)
-
+    
+    
     img_pred = img.astype(np.float32)
     img_pred = cv2.resize(img_pred, (128, 64))
     img_pred = (img_pred / 255.0) * 2.0 - 1.0
