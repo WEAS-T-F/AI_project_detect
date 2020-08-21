@@ -5,6 +5,7 @@ from Model import get_Model
 from parameter import letters
 import argparse
 from keras import backend as K
+import matplotlib.pyplot as plt
 K.set_learning_phase(0)
 
 Region = {"A": "서울 ", "B": "경기 ", "C": "인천 ", "D": "강원 ", "E": "충남 ", "F": "대전 ",
@@ -68,9 +69,9 @@ def label_to_hangul(label):  # eng -> hangul
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-w", "--weight", help="weight file directory",
-                    type=str, default="Final_weight.hdf5")
+                    type=str, default="LSTM+BN5--29--0.250.hdf5")
 parser.add_argument("-t", "--test_img", help="Test image directory",
-                    type=str, default="./DB/test/")
+                    type=str, default="./DB/real_test/")
 args = parser.parse_args()
 
 # Get CRNN model
@@ -90,16 +91,25 @@ acc = 0
 letter_total = 0
 letter_acc = 0
 start = time.time()
+import pdb
 for test_img in test_imgs:
     img = cv2.imread(test_dir + test_img, cv2.IMREAD_GRAYSCALE)
-    
-    
+    ret, img = cv2.threshold(img, 127, 255, cv2.THRESH_BINARY) 
+    #print(type(img))
+    #plt.imshow(img)
+    #pdb.set_trace()
+
     img_pred = img.astype(np.float32)
     img_pred = cv2.resize(img_pred, (128, 64))
     img_pred = (img_pred / 255.0) * 2.0 - 1.0
     img_pred = img_pred.T
     img_pred = np.expand_dims(img_pred, axis=-1)
     img_pred = np.expand_dims(img_pred, axis=0)
+
+    '''
+    ret, thr1 = cv2.threshold(img, 127, 255, cv2.THRESH_BINARY) 
+    ret, thr2 = cv2.threshold(img, 127, 255, cv2.THRESH_BINARY_INV) 
+    '''
 
     net_out_value = model.predict(img_pred)
 
@@ -117,13 +127,13 @@ for test_img in test_imgs:
     total += 1
     print('Predicted: %s  /  True: %s' % (label_to_hangul(pred_texts), label_to_hangul(test_img[0:-4])))
     
-    # cv2.rectangle(img, (0,0), (150, 30), (0,0,0), -1)
-    # cv2.putText(img, pred_texts, (5, 20), cv2.FONT_HERSHEY_SIMPLEX, 0.8, (255,255,255),2)
+    cv2.rectangle(img, (0,0), (150, 30), (0,0,0), -1)
+    cv2.putText(img, pred_texts, (5, 20), cv2.FONT_HERSHEY_SIMPLEX, 0.8, (255,255,255),2)
 
-    #cv2.imshow("q", img)
-    #if cv2.waitKey(0) == 27:
-    #   break
-    #cv2.destroyAllWindows()
+    cv2.imshow("q", img)
+    if cv2.waitKey(0) == 27:
+       break
+    cv2.destroyAllWindows()
 
 end = time.time()
 total_time = (end - start)
