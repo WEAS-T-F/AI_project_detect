@@ -50,10 +50,11 @@
 
   <img src="https://user-images.githubusercontent.com/58680436/89638462-d3759e80-d8e6-11ea-8f77-946bdf6b4d4f.png" alt="이미지 175" style="zoom:67%;" /> <img src="https://user-images.githubusercontent.com/58680436/89638465-d3759e80-d8e6-11ea-98bc-1e4939af7337.png" alt="이미지 176" style="zoom:67%;" />
   
+
 -> 문제점? : 학습에 사용하는 데이터에 3자리 번호판의 개수가 일반 번호판에 비해 4배가량 많아 발생한 현상으로 추측,
-  
+
 새로운 데이터셋으로 학습 예정 ( Type1~Type5 각 만장 Type6~Type9 각 2천장 ) + Augmentation 같은 비율
-  
+
 * 서버 백엔드 및 단위 테스트 확인 중 (Spring xml파일 인식 안되는 문제 발생)
 
 ### 2020.08.09 진행상황
@@ -129,7 +130,15 @@
 
   <img src="https://user-images.githubusercontent.com/58680436/90801692-32a8c980-e351-11ea-84d5-7eb7e61ba7d0.png" alt="lossgraph_202008210132" style="zoom: 80%;" />
 
-  
+### 2020.08.22 진행상황
+
+* Object Detection 모델 학습 완료 
+
+  * 데이터가 적어서 그런지, 성능을 잘 알 수 없으며 테스트 데이터 인풋 방식에 대하여 생각해봐야 함.
+
+  ![이미지 198](https://user-images.githubusercontent.com/58680436/90954519-da3c0e00-e4af-11ea-9f12-3a32b73efc20.png)
+
+* 세가지 모델을 하나의 model로 합칠 예정 
 
 ----
 
