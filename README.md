@@ -140,6 +140,10 @@
 
 * 세가지 모델을 하나의 model로 합칠 예정 
 
+### 2020.08.23 진행상황
+
+* 모델통합 진행중. ( CV2 의 Videocapture 안에서 두 모델의 prediction 및 box 표시와, line detection 이 이루어질 수 있도록 해야함)
+
 ----
 
 ### 개발환경 
