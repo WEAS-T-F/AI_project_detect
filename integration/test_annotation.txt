@@ -1,0 +1,1067 @@
+./test\00208f24eb66ba00.jpg,0,19,1498,999,Car
+./test\00208f24eb66ba00.jpg,180,0,1138,384,Car
+./test\00208f24eb66ba00.jpg,1117,16,1168,55,Car
+./test\00208f24eb66ba00.jpg,1450,49,1495,124,Car
+./test\004e5085b8127281.jpg,376,1278,478,1322,Vehicle registration plate
+./test\004f62edd382ccb8.jpg,1636,234,1692,281,Vehicle registration plate
+./test\00dea1edf14f09ab.jpg,953,1101,1131,1196,Vehicle registration plate
+./test\00f7e34cb220ddbc.jpg,1022,1105,1063,1123,Vehicle registration plate
+./test\00f7e34cb220ddbc.jpg,401,1001,759,1307,Car
+./test\00f7e34cb220ddbc.jpg,888,1009,1115,1156,Car
+./test\00f7e34cb220ddbc.jpg,1539,1042,1962,1287,Car
+./test\016782dc5cdbd0ce.jpg,1936,3363,2657,4003,Car
+./test\016782dc5cdbd0ce.jpg,2134,3632,2341,3736,Vehicle registration plate
+./test\01984a985e4bf80f.jpg,1463,2682,3015,3018,Vehicle registration plate
+./test\01b09b8072388fdb.jpg,2224,2207,2802,2538,Car
+./test\01b09b8072388fdb.jpg,2040,2418,2157,2454,Vehicle registration plate
+./test\01b09b8072388fdb.jpg,2466,2471,2603,2521,Vehicle registration plate
+./test\01b09b8072388fdb.jpg,1504,2217,1844,2552,Car
+./test\01b09b8072388fdb.jpg,1808,2231,2236,2552,Car
+./test\01b929953b0671ae.jpg,1258,674,1391,798,Vehicle registration plate
+./test\01b929953b0671ae.jpg,0,248,1599,1172,Car
+./test\01ff909449736fe6.jpg,0,804,884,1595,Car
+./test\01ff909449736fe6.jpg,725,492,4762,3196,Car
+./test\01ff909449736fe6.jpg,3440,473,5180,2438,Car
+./test\021a3f4ad16708b8.jpg,508,641,590,681,Vehicle registration plate
+./test\021a3f4ad16708b8.jpg,988,634,1074,679,Vehicle registration plate
+./test\021a3f4ad16708b8.jpg,0,424,213,555,Car
+./test\021a3f4ad16708b8.jpg,395,415,746,732,Car
+./test\021a3f4ad16708b8.jpg,469,415,537,461,Car
+./test\021a3f4ad16708b8.jpg,766,415,918,575,Car
+./test\021a3f4ad16708b8.jpg,787,441,1172,721,Car
+./test\02405f96d8bb864a.jpg,0,0,3869,2589,Car
+./test\02a01a62fa5a9831.jpg,209,858,344,906,Vehicle registration plate
+./test\02a01a62fa5a9831.jpg,0,594,444,980,Car
+./test\02a01a62fa5a9831.jpg,1014,516,1149,546,Car
+./test\02a01a62fa5a9831.jpg,1372,545,1599,611,Car
+./test\02c79f997837efd4.jpg,742,878,1155,1072,Car
+./test\02c79f997837efd4.jpg,339,921,404,950,Vehicle registration plate
+./test\02c79f997837efd4.jpg,687,981,740,1005,Vehicle registration plate
+./test\02c79f997837efd4.jpg,0,720,88,805,Car
+./test\02c79f997837efd4.jpg,58,764,218,862,Car
+./test\02c79f997837efd4.jpg,238,783,462,970,Car
+./test\02c79f997837efd4.jpg,408,842,624,1078,Car
+./test\02c79f997837efd4.jpg,496,860,804,1078,Car
+./test\03db92d831e995f0.jpg,209,166,375,239,Vehicle registration plate
+./test\048aba9bdd5da364.jpg,198,343,606,477,Vehicle registration plate
+./test\049bfe70a1097e0c.jpg,1875,1943,3783,3114,Vehicle registration plate
+./test\04bba7e5960a0693.jpg,116,83,4317,2397,Vehicle registration plate
+./test\04c084511ddf74f5.jpg,382,3794,1335,4250,Car
+./test\04c084511ddf74f5.jpg,379,4077,561,4143,Vehicle registration plate
+./test\04c084511ddf74f5.jpg,0,3826,721,4263,Car
+./test\04c084511ddf74f5.jpg,2150,3665,2845,4269,Car
+./test\04e01069792ad29a.jpg,432,269,2735,1529,Vehicle registration plate
+./test\05bb5ed0a20a5e04.jpg,59,466,208,568,Car
+./test\05bb5ed0a20a5e04.jpg,112,400,311,493,Car
+./test\06190e507b82faf6.jpg,1225,1106,1460,1192,Vehicle registration plate
+./test\06190e507b82faf6.jpg,33,539,396,788,Car
+./test\06190e507b82faf6.jpg,60,508,175,607,Car
+./test\06190e507b82faf6.jpg,286,421,1679,1345,Car
+./test\06190e507b82faf6.jpg,1319,499,1641,631,Car
+./test\06190e507b82faf6.jpg,1883,499,2249,624,Car
+./test\06190e507b82faf6.jpg,2147,515,2568,638,Car
+./test\06190e507b82faf6.jpg,2653,518,2780,603,Car
+./test\06ad615bedb0efc3.jpg,502,1604,542,1625,Vehicle registration plate
+./test\06ad615bedb0efc3.jpg,1035,1669,1100,1720,Vehicle registration plate
+./test\06ad615bedb0efc3.jpg,388,1516,681,1728,Car
+./test\06ad615bedb0efc3.jpg,857,1447,1283,1807,Car
+./test\0769b915828720bb.jpg,543,762,2607,2152,Car
+./test\0769b915828720bb.jpg,2003,829,4012,1910,Car
+./test\07e35a49413ccc50.jpg,0,996,355,1405,Car
+./test\07e35a49413ccc50.jpg,0,1410,500,2305,Car
+./test\07e35a49413ccc50.jpg,163,921,829,1333,Car
+./test\07e35a49413ccc50.jpg,673,1031,993,1288,Car
+./test\07e35a49413ccc50.jpg,848,935,1878,1707,Car
+./test\07e35a49413ccc50.jpg,1663,991,2198,1576,Car
+./test\07e35a49413ccc50.jpg,1797,954,2294,1447,Car
+./test\07e35a49413ccc50.jpg,2224,1054,2390,1391,Car
+./test\07e35a49413ccc50.jpg,2290,1050,2617,1351,Car
+./test\07e35a49413ccc50.jpg,2439,996,2780,1314,Car
+./test\07e35a49413ccc50.jpg,2673,1054,2865,1174,Car
+./test\0809f4dae90ea6ff.jpg,2770,1745,2980,1850,Vehicle registration plate
+./test\0809f4dae90ea6ff.jpg,3315,1636,3407,1698,Vehicle registration plate
+./test\0809f4dae90ea6ff.jpg,181,1418,548,1631,Car
+./test\0809f4dae90ea6ff.jpg,528,1428,696,1602,Car
+./test\0809f4dae90ea6ff.jpg,696,1418,969,1545,Car
+./test\0809f4dae90ea6ff.jpg,1220,1393,1386,1485,Car
+./test\0809f4dae90ea6ff.jpg,1366,1398,1497,1460,Car
+./test\0809f4dae90ea6ff.jpg,1502,1398,1545,1438,Car
+./test\0809f4dae90ea6ff.jpg,1564,1393,1723,1433,Car
+./test\0809f4dae90ea6ff.jpg,2038,1359,2179,1428,Car
+./test\0809f4dae90ea6ff.jpg,2209,1368,3375,2217,Car
+./test\0809f4dae90ea6ff.jpg,2214,1378,2338,1438,Car
+./test\0809f4dae90ea6ff.jpg,3238,1418,3965,1921,Car
+./test\08a87cddf5472a14.jpg,0,120,408,615,Car
+./test\08a87cddf5472a14.jpg,145,55,1511,1066,Car
+./test\08a87cddf5472a14.jpg,1320,254,1606,411,Car
+./test\08d332bec1593d55.jpg,0,0,1668,1152,Car
+./test\0948a4bfcf4d984d.jpg,1185,527,1334,669,Vehicle registration plate
+./test\0948a4bfcf4d984d.jpg,1398,246,1438,270,Vehicle registration plate
+./test\0948a4bfcf4d984d.jpg,1553,245,1586,258,Vehicle registration plate
+./test\0948a4bfcf4d984d.jpg,42,228,1493,995,Car
+./test\0948a4bfcf4d984d.jpg,1022,170,1452,330,Car
+./test\0948a4bfcf4d984d.jpg,1326,150,1599,329,Car
+./test\0948a4bfcf4d984d.jpg,1351,168,1475,186,Car
+./test\0948a4bfcf4d984d.jpg,1572,191,1599,300,Car
+./test\0994ce382cceaee1.jpg,978,1322,1986,1843,Car
+./test\0a78b93b3efac16f.jpg,2315,1050,2937,1372,Vehicle registration plate
+./test\0a78b93b3efac16f.jpg,0,385,1225,1655,Car
+./test\0a78b93b3efac16f.jpg,567,400,3505,2095,Car
+./test\0a9e802d8bdce1d5.jpg,250,151,1853,949,Vehicle registration plate
+./test\0b17193c820ded62.jpg,579,458,988,559,Vehicle registration plate
+./test\0bd9b1b8c99cc4cc.jpg,285,0,4605,3069,Car
+./test\0c2d596757b791a2.jpg,110,2360,556,2829,Car
+./test\0c2d596757b791a2.jpg,187,2578,287,2623,Vehicle registration plate
+./test\0c2d596757b791a2.jpg,679,2374,756,2680,Car
+./test\0e937f80a6f1151d.jpg,2763,1910,2933,2002,Vehicle registration plate
+./test\0e937f80a6f1151d.jpg,115,1179,2970,2242,Car
+./test\10e8261531524106.jpg,0,1444,640,1816,Car
+./test\10e8261531524106.jpg,0,1691,1411,1996,Car
+./test\10e8261531524106.jpg,977,1459,2496,1996,Car
+./test\122efede0a9b4008.jpg,741,1544,1021,1677,Vehicle registration plate
+./test\122efede0a9b4008.jpg,0,948,470,1322,Car
+./test\122efede0a9b4008.jpg,299,975,954,1198,Car
+./test\122efede0a9b4008.jpg,361,1011,2066,2008,Car
+./test\122efede0a9b4008.jpg,880,932,1177,1085,Car
+./test\122efede0a9b4008.jpg,1254,979,1492,1045,Car
+./test\122efede0a9b4008.jpg,1508,991,1640,1026,Car
+./test\122efede0a9b4008.jpg,1850,952,1960,1076,Car
+./test\122efede0a9b4008.jpg,1987,937,2163,1045,Car
+./test\122efede0a9b4008.jpg,2140,952,2214,1186,Car
+./test\1240d349079699b7.jpg,3136,2213,3974,2836,Car
+./test\1240d349079699b7.jpg,1486,2526,1633,2580,Vehicle registration plate
+./test\1240d349079699b7.jpg,3587,2497,3776,2580,Vehicle registration plate
+./test\15005a078491f0cc.jpg,591,955,613,974,Vehicle registration plate
+./test\15005a078491f0cc.jpg,1022,928,1050,945,Vehicle registration plate
+./test\15005a078491f0cc.jpg,80,844,651,1049,Car
+./test\15005a078491f0cc.jpg,956,856,1165,1016,Car
+./test\154710707a4ef4d3.jpg,371,705,432,753,Vehicle registration plate
+./test\154710707a4ef4d3.jpg,249,519,725,887,Car
+./test\154710707a4ef4d3.jpg,1882,415,2022,554,Car
+./test\154710707a4ef4d3.jpg,1955,378,2046,673,Car
+./test\1550b198e01907d7.jpg,344,1197,433,1244,Vehicle registration plate
+./test\1550b198e01907d7.jpg,1060,1290,1151,1342,Vehicle registration plate
+./test\157ce009a41cc23a.jpg,321,587,579,728,Vehicle registration plate
+./test\157ce009a41cc23a.jpg,20,39,1112,793,Car
+./test\17cc7c88609e3f45.jpg,412,756,1682,1616,Car
+./test\17cc7c88609e3f45.jpg,0,449,655,1355,Car
+./test\17cc7c88609e3f45.jpg,549,730,1073,978,Car
+./test\17cc7c88609e3f45.jpg,1395,771,1834,1270,Car
+./test\17cc7c88609e3f45.jpg,1787,820,1999,1153,Car
+./test\17cc7c88609e3f45.jpg,1893,826,2030,1107,Car
+./test\17cc7c88609e3f45.jpg,1960,841,2131,1032,Car
+./test\17cc7c88609e3f45.jpg,2040,826,2172,1037,Car
+./test\17cc7c88609e3f45.jpg,2066,826,2200,983,Car
+./test\19326288956596b8.jpg,263,299,1479,1020,Car
+./test\19326288956596b8.jpg,0,452,37,495,Vehicle registration plate
+./test\19326288956596b8.jpg,370,786,556,908,Vehicle registration plate
+./test\19326288956596b8.jpg,1480,444,1556,462,Vehicle registration plate
+./test\19326288956596b8.jpg,0,794,736,1197,Car
+./test\19326288956596b8.jpg,0,261,867,702,Car
+./test\19326288956596b8.jpg,1,224,216,329,Car
+./test\19326288956596b8.jpg,342,219,708,372,Car
+./test\19326288956596b8.jpg,695,261,881,381,Car
+./test\19326288956596b8.jpg,885,263,1018,317,Car
+./test\19326288956596b8.jpg,1002,273,1139,306,Car
+./test\19326288956596b8.jpg,1315,678,1599,1199,Car
+./test\19326288956596b8.jpg,1383,329,1458,372,Car
+./test\19326288956596b8.jpg,1439,311,1599,483,Car
+./test\1a242ff6f22dc1ea.jpg,0,544,653,1288,Car
+./test\1ba3ccf7f4741410.jpg,846,1863,1435,2268,Vehicle registration plate
+./test\1ba3ccf7f4741410.jpg,0,999,596,1659,Car
+./test\1ba3ccf7f4741410.jpg,0,953,680,1231,Car
+./test\1ba3ccf7f4741410.jpg,396,743,4462,3054,Car
+./test\1ba3ccf7f4741410.jpg,3791,798,4589,1705,Car
+./test\1bf1208c64e53ed8.jpg,2071,2089,2310,2223,Vehicle registration plate
+./test\1c590a0851e792fd.jpg,334,817,3076,1474,Car
+./test\1cbb9949ac108f37.jpg,0,0,1998,1331,Car
+./test\1e3b4a4cb4a1da64.jpg,138,279,512,462,Vehicle registration plate
+./test\1e598ea3fbb724dd.jpg,0,585,3564,2062,Car
+./test\1fc227583e46bd86.jpg,1287,1027,2115,1517,Car
+./test\1fc227583e46bd86.jpg,1644,1406,1791,1496,Vehicle registration plate
+./test\1fc227583e46bd86.jpg,108,1025,1044,1550,Car
+./test\206e90fa98d12094.jpg,0,0,4285,2845,Car
+./test\22c9c7c27a200e0e.jpg,44,3849,198,3919,Vehicle registration plate
+./test\22c9c7c27a200e0e.jpg,1638,3754,1727,3834,Vehicle registration plate
+./test\22c9c7c27a200e0e.jpg,0,3633,656,4126,Car
+./test\22c9c7c27a200e0e.jpg,0,3455,1993,4150,Car
+./test\22c9c7c27a200e0e.jpg,502,3609,890,4047,Car
+./test\22c9c7c27a200e0e.jpg,777,3609,1094,3875,Car
+./test\22c9c7c27a200e0e.jpg,1038,3594,1230,3837,Car
+./test\22c9c7c27a200e0e.jpg,1401,3497,2008,3925,Car
+./test\22c9c7c27a200e0e.jpg,1709,3195,2031,3488,Car
+./test\23cca38091d40135.jpg,991,1100,1019,1110,Vehicle registration plate
+./test\24026e55c127981c.jpg,242,427,349,517,Car
+./test\24026e55c127981c.jpg,1305,451,1389,512,Car
+./test\2761d92ef3fd21c0.jpg,198,186,341,294,Car
+./test\2761d92ef3fd21c0.jpg,106,250,121,262,Vehicle registration plate
+./test\2761d92ef3fd21c0.jpg,249,263,291,274,Vehicle registration plate
+./test\2761d92ef3fd21c0.jpg,70,198,167,281,Car
+./test\2761d92ef3fd21c0.jpg,149,202,197,270,Car
+./test\2761d92ef3fd21c0.jpg,181,208,208,252,Car
+./test\2761d92ef3fd21c0.jpg,351,210,399,258,Car
+./test\2761d92ef3fd21c0.jpg,396,206,461,264,Car
+./test\2761d92ef3fd21c0.jpg,480,190,511,258,Car
+./test\277b830cab2b8084.jpg,686,1117,740,1161,Vehicle registration plate
+./test\277b830cab2b8084.jpg,813,1059,839,1073,Vehicle registration plate
+./test\277b830cab2b8084.jpg,883,1223,918,1247,Vehicle registration plate
+./test\277b830cab2b8084.jpg,904,1107,941,1128,Vehicle registration plate
+./test\277b830cab2b8084.jpg,1239,1186,1276,1210,Vehicle registration plate
+./test\277b830cab2b8084.jpg,1268,1316,1327,1346,Vehicle registration plate
+./test\277b830cab2b8084.jpg,1399,1356,1460,1379,Vehicle registration plate
+./test\277b830cab2b8084.jpg,1566,1040,1628,1070,Vehicle registration plate
+./test\277b830cab2b8084.jpg,2576,1608,2636,1638,Vehicle registration plate
+./test\277b830cab2b8084.jpg,0,1576,70,1689,Car
+./test\277b830cab2b8084.jpg,0,1703,216,1928,Car
+./test\277b830cab2b8084.jpg,0,1911,248,2038,Car
+./test\277b830cab2b8084.jpg,0,2031,360,2110,Car
+./test\277b830cab2b8084.jpg,0,1531,376,2110,Car
+./test\277b830cab2b8084.jpg,556,964,774,1186,Car
+./test\277b830cab2b8084.jpg,575,997,640,1121,Car
+./test\277b830cab2b8084.jpg,660,1070,779,1179,Car
+./test\277b830cab2b8084.jpg,716,624,777,684,Car
+./test\277b830cab2b8084.jpg,716,494,1068,658,Car
+./test\277b830cab2b8084.jpg,762,1022,874,1107,Car
+./test\277b830cab2b8084.jpg,774,934,976,1149,Car
+./test\277b830cab2b8084.jpg,800,568,855,633,Car
+./test\277b830cab2b8084.jpg,821,1149,966,1298,Car
+./test\277b830cab2b8084.jpg,830,605,895,670,Car
+./test\277b830cab2b8084.jpg,837,1056,976,1186,Car
+./test\277b830cab2b8084.jpg,857,661,918,726,Car
+./test\277b830cab2b8084.jpg,871,557,925,598,Car
+./test\277b830cab2b8084.jpg,880,788,934,876,Car
+./test\277b830cab2b8084.jpg,901,814,989,902,Car
+./test\277b830cab2b8084.jpg,909,561,987,637,Car
+./test\277b830cab2b8084.jpg,934,726,1003,800,Car
+./test\277b830cab2b8084.jpg,950,660,1019,739,Car
+./test\277b830cab2b8084.jpg,959,647,1017,712,Car
+./test\277b830cab2b8084.jpg,959,1272,1166,1462,Car
+./test\277b830cab2b8084.jpg,987,605,1066,674,Car
+./test\277b830cab2b8084.jpg,1082,818,1195,920,Car
+./test\277b830cab2b8084.jpg,1133,630,1207,691,Car
+./test\277b830cab2b8084.jpg,1136,770,1221,832,Car
+./test\277b830cab2b8084.jpg,1149,1121,1195,1200,Car
+./test\277b830cab2b8084.jpg,1182,1124,1339,1256,Car
+./test\277b830cab2b8084.jpg,1214,1268,1355,1385,Car
+./test\277b830cab2b8084.jpg,1221,730,1286,800,Car
+./test\277b830cab2b8084.jpg,1239,658,1316,730,Car
+./test\277b830cab2b8084.jpg,1240,813,1325,902,Car
+./test\277b830cab2b8084.jpg,1309,698,1413,774,Car
+./test\277b830cab2b8084.jpg,1323,1268,1531,1448,Car
+./test\277b830cab2b8084.jpg,1369,1092,1488,1216,Car
+./test\277b830cab2b8084.jpg,1376,797,1492,885,Car
+./test\277b830cab2b8084.jpg,1413,909,1555,1033,Car
+./test\277b830cab2b8084.jpg,1418,1170,1576,1316,Car
+./test\277b830cab2b8084.jpg,1471,855,1568,939,Car
+./test\277b830cab2b8084.jpg,1471,1140,1568,1267,Car
+./test\277b830cab2b8084.jpg,1518,800,1617,865,Car
+./test\277b830cab2b8084.jpg,1548,967,1650,1077,Car
+./test\277b830cab2b8084.jpg,1592,814,1705,924,Car
+./test\277b830cab2b8084.jpg,1686,1070,1795,1186,Car
+./test\277b830cab2b8084.jpg,1716,964,1839,1047,Car
+./test\277b830cab2b8084.jpg,1728,994,1837,1070,Car
+./test\277b830cab2b8084.jpg,1839,1012,1920,1121,Car
+./test\277b830cab2b8084.jpg,2203,1251,2340,1360,Car
+./test\277b830cab2b8084.jpg,2472,1487,2698,1677,Car
+./test\277b830cab2b8084.jpg,2559,1221,2705,1400,Car
+./test\28695bbaa520b03e.jpg,7,436,172,520,Car
+./test\28695bbaa520b03e.jpg,125,491,140,501,Vehicle registration plate
+./test\28695bbaa520b03e.jpg,0,400,54,421,Car
+./test\28695bbaa520b03e.jpg,81,406,106,427,Car
+./test\28695bbaa520b03e.jpg,118,416,129,435,Car
+./test\28695bbaa520b03e.jpg,177,415,194,421,Car
+./test\28695bbaa520b03e.jpg,195,415,226,421,Car
+./test\290b075812784b48.jpg,537,869,865,1018,Vehicle registration plate
+./test\290b075812784b48.jpg,0,1253,375,1534,Car
+./test\290b075812784b48.jpg,308,240,2046,1505,Car
+./test\29b0028cdc621b66.jpg,53,634,161,667,Vehicle registration plate
+./test\29b0028cdc621b66.jpg,1904,1636,2328,1907,Vehicle registration plate
+./test\29b0028cdc621b66.jpg,3126,931,3290,1040,Vehicle registration plate
+./test\29b0028cdc621b66.jpg,2,501,255,700,Car
+./test\29b0028cdc621b66.jpg,155,474,3545,2146,Car
+./test\29b0028cdc621b66.jpg,345,525,747,683,Car
+./test\29b0028cdc621b66.jpg,718,456,1086,625,Car
+./test\29b0028cdc621b66.jpg,1275,430,1487,638,Car
+./test\29b0028cdc621b66.jpg,1647,448,1829,629,Car
+./test\2a00d055bffe8b04.jpg,18,1479,752,2439,Car
+./test\2a00d055bffe8b04.jpg,325,1975,503,2072,Vehicle registration plate
+./test\2b8692a8116625f5.jpg,0,0,3501,2333,Car
+./test\2b8692a8116625f5.jpg,1677,4,3501,499,Car
+./test\2df01299605b42c8.jpg,208,156,1058,741,Car
+./test\2e8448f82d5f436b.jpg,204,839,4795,2768,Car
+./test\2e8448f82d5f436b.jpg,518,2243,1172,2421,Vehicle registration plate
+./test\2e8448f82d5f436b.jpg,0,1027,1892,2548,Car
+./test\2e8448f82d5f436b.jpg,4587,1086,5180,2311,Car
+./test\2f88f3f2d2cbeb88.jpg,590,2157,1025,2548,Car
+./test\349b5d6552155c8e.jpg,13,72,2250,1861,Car
+./test\349b5d6552155c8e.jpg,0,453,103,521,Car
+./test\349b5d6552155c8e.jpg,0,510,313,1187,Car
+./test\349b5d6552155c8e.jpg,426,466,604,650,Car
+./test\349b5d6552155c8e.jpg,1623,416,1723,578,Car
+./test\349b5d6552155c8e.jpg,1652,435,2346,875,Car
+./test\349b5d6552155c8e.jpg,1701,432,1782,519,Car
+./test\349b5d6552155c8e.jpg,2197,459,2353,604,Car
+./test\35ac6686eac14193.jpg,2283,2853,2589,3157,Car
+./test\373d1bd1510b3d75.jpg,312,697,350,715,Vehicle registration plate
+./test\373d1bd1510b3d75.jpg,838,688,865,704,Vehicle registration plate
+./test\373d1bd1510b3d75.jpg,0,0,1279,718,Car
+./test\373d1bd1510b3d75.jpg,0,627,92,708,Car
+./test\373d1bd1510b3d75.jpg,76,634,146,700,Car
+./test\373d1bd1510b3d75.jpg,160,616,242,718,Car
+./test\373d1bd1510b3d75.jpg,213,594,417,718,Car
+./test\373d1bd1510b3d75.jpg,374,615,440,693,Car
+./test\373d1bd1510b3d75.jpg,432,580,671,718,Car
+./test\373d1bd1510b3d75.jpg,643,604,912,718,Car
+./test\373d1bd1510b3d75.jpg,843,637,928,679,Car
+./test\373d1bd1510b3d75.jpg,936,617,1045,694,Car
+./test\37d695e8fa3ab6cc.jpg,1010,1511,1061,1543,Vehicle registration plate
+./test\37d695e8fa3ab6cc.jpg,1581,1458,1607,1474,Vehicle registration plate
+./test\37d695e8fa3ab6cc.jpg,2146,1616,2271,1688,Vehicle registration plate
+./test\37d695e8fa3ab6cc.jpg,942,1359,1445,1603,Car
+./test\37d695e8fa3ab6cc.jpg,1521,1346,2127,1530,Car
+./test\37d695e8fa3ab6cc.jpg,1968,1420,2504,1853,Car
+./test\37d695e8fa3ab6cc.jpg,2175,1409,2282,1485,Car
+./test\37d695e8fa3ab6cc.jpg,2261,1368,2475,1526,Car
+./test\37d695e8fa3ab6cc.jpg,2476,1438,2502,1459,Car
+./test\39cade80422e9305.jpg,160,24,290,93,Vehicle registration plate
+./test\39e6ccbf7abf8696.jpg,2243,1709,3083,2222,Car
+./test\39e6ccbf7abf8696.jpg,2762,1925,2940,1998,Vehicle registration plate
+./test\3a3c0b4480a5644e.jpg,7,1770,437,2127,Car
+./test\3a3c0b4480a5644e.jpg,19,1916,109,1962,Vehicle registration plate
+./test\3b54260d7b707088.jpg,22,57,604,447,Car
+./test\3b54260d7b707088.jpg,257,36,450,104,Car
+./test\3b54260d7b707088.jpg,424,33,512,63,Car
+./test\3bbd5ab4ed350f23.jpg,595,1000,626,1016,Vehicle registration plate
+./test\3bbd5ab4ed350f23.jpg,1658,994,1701,1016,Vehicle registration plate
+./test\3bbd5ab4ed350f23.jpg,0,835,1437,1058,Car
+./test\3bbd5ab4ed350f23.jpg,1449,1016,1481,1056,Car
+./test\3bbd5ab4ed350f23.jpg,1487,909,1815,1146,Car
+./test\3bbd5ab4ed350f23.jpg,1818,994,1953,1099,Car
+./test\3c70a6601bbef454.jpg,3182,2054,3995,2373,Vehicle registration plate
+./test\3c70a6601bbef454.jpg,0,2171,128,2645,Car
+./test\3c70a6601bbef454.jpg,99,790,4536,2817,Car
+./test\3c70a6601bbef454.jpg,4168,2013,4583,2393,Car
+./test\3c70a6601bbef454.jpg,4446,1937,4677,2314,Car
+./test\3d0495164367053c.jpg,0,8,3459,2470,Car
+./test\3dcfd9b2f8f48d45.jpg,365,734,2800,1619,Car
+./test\3e8dbc24cfc6ea07.jpg,0,0,2046,1417,Car
+./test\3eac61d79f6eda72.jpg,2982,2796,3124,2819,Vehicle registration plate
+./test\3eac61d79f6eda72.jpg,5,2444,3754,3027,Car
+./test\3ed27d859252d29f.jpg,97,161,3194,2035,Vehicle registration plate
+./test\3f796298e3bd8b8b.jpg,476,555,643,671,Vehicle registration plate
+./test\3f796298e3bd8b8b.jpg,133,237,1410,947,Car
+./test\3f796298e3bd8b8b.jpg,0,264,357,908,Car
+./test\404cffdc7fb956ea.jpg,158,584,479,639,Car
+./test\40594908d62ec9da.jpg,0,2794,70,2889,Vehicle registration plate
+./test\40594908d62ec9da.jpg,804,2705,970,2806,Vehicle registration plate
+./test\40594908d62ec9da.jpg,2127,2735,2228,2806,Vehicle registration plate
+./test\40594908d62ec9da.jpg,2956,2999,3159,3095,Vehicle registration plate
+./test\409d3268316d0d10.jpg,0,839,498,1950,Car
+./test\417da3b2a97c0e54.jpg,690,2444,792,2475,Vehicle registration plate
+./test\417da3b2a97c0e54.jpg,626,2243,1265,2575,Car
+./test\419fce4f9c01b276.jpg,0,0,799,598,Car
+./test\4339a7606783a9c6.jpg,0,457,2703,2589,Car
+./test\4440a00600338234.jpg,65,3684,1570,4341,Car
+./test\4440a00600338234.jpg,985,4081,1370,4209,Vehicle registration plate
+./test\4440a00600338234.jpg,4312,3843,5000,4347,Car
+./test\4440a00600338234.jpg,4540,4212,5000,4381,Car
+./test\4721869ceb471f1f.jpg,2436,1212,4354,2421,Car
+./test\4721869ceb471f1f.jpg,0,1805,106,2337,Car
+./test\4721869ceb471f1f.jpg,0,1646,392,2152,Car
+./test\4721869ceb471f1f.jpg,0,1611,764,2117,Car
+./test\4721869ceb471f1f.jpg,0,1420,981,2032,Car
+./test\4721869ceb471f1f.jpg,349,1206,923,1724,Car
+./test\4721869ceb471f1f.jpg,3910,1345,4224,1621,Car
+./test\4721869ceb471f1f.jpg,4189,1325,5180,2039,Car
+./test\4721869ceb471f1f.jpg,4244,1300,5132,1718,Car
+./test\4721869ceb471f1f.jpg,5080,1585,5180,2045,Car
+./test\47c1e6eb4fe7b8c2.jpg,24,363,50,389,Vehicle registration plate
+./test\47c1e6eb4fe7b8c2.jpg,0,357,29,479,Car
+./test\47c1e6eb4fe7b8c2.jpg,0,296,70,444,Car
+./test\47d351e7dfeaf20d.jpg,67,1344,2237,2222,Vehicle registration plate
+./test\489d7f00e48a997d.jpg,364,688,463,712,Vehicle registration plate
+./test\489d7f00e48a997d.jpg,13,457,110,493,Car
+./test\489d7f00e48a997d.jpg,184,465,244,502,Car
+./test\489d7f00e48a997d.jpg,1035,445,1055,478,Car
+./test\489d7f00e48a997d.jpg,1088,438,1279,528,Car
+./test\4aeff8d1c986ac27.jpg,440,755,875,1030,Vehicle registration plate
+./test\4aeff8d1c986ac27.jpg,0,13,2361,1015,Car
+./test\4b140dbe46cc8795.jpg,357,872,3756,1696,Car
+./test\4d049f160ede9eb1.jpg,1912,3164,2333,3385,Vehicle registration plate
+./test\4d049f160ede9eb1.jpg,0,2208,926,3234,Car
+./test\4d049f160ede9eb1.jpg,1074,2216,2865,3928,Car
+./test\4dcf05f17cdc2c15.jpg,819,768,1058,924,Car
+./test\4dcf05f17cdc2c15.jpg,675,840,704,857,Vehicle registration plate
+./test\4dcf05f17cdc2c15.jpg,903,822,941,842,Vehicle registration plate
+./test\4dcf05f17cdc2c15.jpg,1311,840,1334,855,Vehicle registration plate
+./test\4dcf05f17cdc2c15.jpg,630,773,827,897,Car
+./test\4dcf05f17cdc2c15.jpg,1035,725,1200,801,Car
+./test\4dcf05f17cdc2c15.jpg,1103,816,1151,852,Car
+./test\4dcf05f17cdc2c15.jpg,1151,822,1204,870,Car
+./test\4dcf05f17cdc2c15.jpg,1208,819,1248,849,Car
+./test\4dcf05f17cdc2c15.jpg,1229,783,1250,806,Car
+./test\4dcf05f17cdc2c15.jpg,1248,765,1407,905,Car
+./test\4dcf05f17cdc2c15.jpg,1392,743,1409,758,Car
+./test\4dcf05f17cdc2c15.jpg,1417,744,1432,758,Car
+./test\4dcf05f17cdc2c15.jpg,1417,774,1438,786,Car
+./test\4dcf05f17cdc2c15.jpg,1452,798,1487,825,Car
+./test\4dcf05f17cdc2c15.jpg,1458,768,1475,786,Car
+./test\4dcf05f17cdc2c15.jpg,1458,753,1477,768,Car
+./test\4dcf05f17cdc2c15.jpg,1469,822,1492,846,Car
+./test\4e1fec2f44c809a8.jpg,267,2132,495,2371,Vehicle registration plate
+./test\4e1fec2f44c809a8.jpg,385,1694,466,1749,Vehicle registration plate
+./test\4e1fec2f44c809a8.jpg,0,1250,725,1893,Car
+./test\4e1fec2f44c809a8.jpg,590,1311,982,1587,Car
+./test\4f935c584e5de271.jpg,344,2291,485,2325,Vehicle registration plate
+./test\4f935c584e5de271.jpg,1039,2323,1219,2366,Vehicle registration plate
+./test\4f935c584e5de271.jpg,1769,2355,1931,2407,Vehicle registration plate
+./test\4f935c584e5de271.jpg,2544,2282,2715,2318,Vehicle registration plate
+./test\500354d4d82f4007.jpg,0,415,3885,2314,Car
+./test\54097dc1a5570f62.jpg,0,1137,1022,1385,Car
+./test\54a3c740658dda87.jpg,437,943,483,958,Vehicle registration plate
+./test\54a3c740658dda87.jpg,412,861,623,958,Car
+./test\54a3c740658dda87.jpg,568,847,622,889,Car
+./test\54a3c740658dda87.jpg,637,850,652,880,Car
+./test\54a3c740658dda87.jpg,847,853,932,897,Car
+./test\54a3c740658dda87.jpg,936,847,988,877,Car
+./test\5593c51d0252f874.jpg,103,267,1599,927,Car
+./test\562f4273e31fa104.jpg,504,420,860,528,Vehicle registration plate
+./test\562f4273e31fa104.jpg,0,0,183,153,Car
+./test\562f4273e31fa104.jpg,8,0,1264,838,Car
+./test\56594723e3a01ec3.jpg,735,394,1014,666,Car
+./test\56594723e3a01ec3.jpg,0,263,223,816,Car
+./test\56594723e3a01ec3.jpg,152,407,391,673,Car
+./test\5959614d5c64512a.jpg,0,348,631,1245,Car
+./test\5959614d5c64512a.jpg,552,296,952,696,Car
+./test\5b0568c59bd5fd95.jpg,215,251,461,509,Car
+./test\5b0a736b1b04184b.jpg,121,20,446,199,Vehicle registration plate
+./test\5d461391a6f18e39.jpg,0,0,711,186,Vehicle registration plate
+./test\5d61cdcf659f6c62.jpg,1300,567,1545,639,Vehicle registration plate
+./test\5d61cdcf659f6c62.jpg,988,309,1851,1033,Car
+./test\5da469584447adde.jpg,3100,1692,3608,2095,Car
+./test\5da469584447adde.jpg,1103,2059,1287,2110,Vehicle registration plate
+./test\5da469584447adde.jpg,3073,1920,3239,1971,Vehicle registration plate
+./test\5da469584447adde.jpg,3705,1901,3846,1947,Vehicle registration plate
+./test\5da469584447adde.jpg,3606,1616,3885,2010,Car
+./test\5ea47ca78139153a.jpg,372,816,396,831,Vehicle registration plate
+./test\5ea47ca78139153a.jpg,0,761,185,842,Car
+./test\5ea47ca78139153a.jpg,326,737,487,861,Car
+./test\5ea47ca78139153a.jpg,724,710,884,840,Car
+./test\5ea47ca78139153a.jpg,831,731,1130,1012,Car
+./test\5ee7d68e7099fd16.jpg,627,880,801,989,Car
+./test\5ee7d68e7099fd16.jpg,0,847,78,1013,Car
+./test\5ee7d68e7099fd16.jpg,204,871,311,975,Car
+./test\5ee7d68e7099fd16.jpg,249,868,413,977,Car
+./test\5ee7d68e7099fd16.jpg,426,871,579,939,Car
+./test\5ee7d68e7099fd16.jpg,519,874,626,931,Car
+./test\5ee7d68e7099fd16.jpg,615,877,1038,1035,Car
+./test\6085738ac0c207bf.jpg,119,1192,199,1236,Vehicle registration plate
+./test\6085738ac0c207bf.jpg,808,1443,1046,1581,Vehicle registration plate
+./test\6085738ac0c207bf.jpg,2013,1185,2101,1232,Vehicle registration plate
+./test\6085738ac0c207bf.jpg,2426,1172,2486,1210,Vehicle registration plate
+./test\6085738ac0c207bf.jpg,379,972,2590,1934,Car
+./test\6093fbe0d371acd0.jpg,24,44,377,231,Vehicle registration plate
+./test\61de012b9a9bf730.jpg,1555,322,1695,380,Vehicle registration plate
+./test\61de012b9a9bf730.jpg,0,42,1412,677,Car
+./test\61de012b9a9bf730.jpg,1465,135,2275,600,Car
+./test\61de012b9a9bf730.jpg,1732,22,2090,197,Car
+./test\631630eddab5579a.jpg,28,3071,1286,3472,Car
+./test\631630eddab5579a.jpg,98,3388,278,3458,Vehicle registration plate
+./test\631630eddab5579a.jpg,1187,2994,2436,3463,Car
+./test\6408d581cc7c36bb.jpg,315,519,2049,1555,Car
+./test\6408d581cc7c36bb.jpg,0,271,805,592,Car
+./test\6408d581cc7c36bb.jpg,0,451,1242,1068,Car
+./test\6408d581cc7c36bb.jpg,908,359,1091,428,Car
+./test\6408d581cc7c36bb.jpg,1079,359,1156,428,Car
+./test\6408d581cc7c36bb.jpg,1245,454,1752,602,Car
+./test\6408d581cc7c36bb.jpg,1710,1006,2283,1712,Car
+./test\6408d581cc7c36bb.jpg,2219,519,2283,625,Car
+./test\65d36f36af840749.jpg,1399,383,1564,461,Vehicle registration plate
+./test\65d36f36af840749.jpg,0,1,228,249,Car
+./test\67734d8213f10911.jpg,0,78,1279,958,Car
+./test\683575f75b5aad39.jpg,444,777,750,984,Vehicle registration plate
+./test\683575f75b5aad39.jpg,2735,414,2879,454,Vehicle registration plate
+./test\683575f75b5aad39.jpg,0,124,3487,1538,Car
+./test\68675ea1b63f3aac.jpg,0,1474,165,1866,Vehicle registration plate
+./test\68675ea1b63f3aac.jpg,0,0,2198,2430,Car
+./test\690ab5675f73f513.jpg,429,477,2021,1419,Car
+./test\690ab5675f73f513.jpg,584,928,842,1035,Vehicle registration plate
+./test\6a812e6b60fdde84.jpg,262,281,1736,1107,Vehicle registration plate
+./test\6d0ac2c8df58b6bc.jpg,1073,1068,1105,1125,Vehicle registration plate
+./test\6d0ac2c8df58b6bc.jpg,1808,1155,1937,1252,Vehicle registration plate
+./test\6d0ac2c8df58b6bc.jpg,954,822,2024,1252,Car
+./test\6d0ac2c8df58b6bc.jpg,1649,917,2046,1252,Car
+./test\6d696858bd9e998d.jpg,618,1452,673,1487,Vehicle registration plate
+./test\6d696858bd9e998d.jpg,0,1391,150,1627,Car
+./test\6d696858bd9e998d.jpg,357,1307,783,1593,Car
+./test\6d696858bd9e998d.jpg,2574,1281,3064,1497,Car
+./test\6dd439cd2f1552ec.jpg,512,696,1032,899,Vehicle registration plate
+./test\6dd439cd2f1552ec.jpg,154,228,1421,978,Car
+./test\6dd439cd2f1552ec.jpg,1471,429,1529,474,Car
+./test\6dd439cd2f1552ec.jpg,1529,423,1599,483,Car
+./test\6e0196b169dfb820.jpg,289,252,574,406,Car
+./test\6e0196b169dfb820.jpg,584,256,668,316,Car
+./test\6ebeae25b334c654.jpg,284,3196,3348,4007,Car
+./test\6f95eff6a5b76fbc.jpg,180,570,1150,881,Car
+./test\70dd2f625427734c.jpg,566,1433,872,1599,Car
+./test\70e9c7e6323fb104.jpg,897,929,3852,2078,Car
+./test\72df56eba9ac3ed9.jpg,828,273,871,286,Vehicle registration plate
+./test\72df56eba9ac3ed9.jpg,0,51,248,166,Car
+./test\72df56eba9ac3ed9.jpg,103,51,307,128,Car
+./test\72df56eba9ac3ed9.jpg,398,68,535,148,Car
+./test\72df56eba9ac3ed9.jpg,793,198,911,325,Car
+./test\74d8685bea48ec0b.jpg,0,152,1782,1950,Car
+./test\76335629d8681b8f.jpg,89,371,3407,2019,Car
+./test\766146429d9448c8.jpg,0,2489,4100,3836,Car
+./test\766146429d9448c8.jpg,0,1048,5756,2496,Car
+./test\766146429d9448c8.jpg,2692,3072,5756,3836,Car
+./test\771d155cc37bb8c8.jpg,93,321,1509,1052,Car
+./test\771d155cc37bb8c8.jpg,150,645,273,747,Vehicle registration plate
+./test\771d155cc37bb8c8.jpg,1485,425,1586,452,Vehicle registration plate
+./test\771d155cc37bb8c8.jpg,16,315,314,458,Car
+./test\771d155cc37bb8c8.jpg,70,285,163,324,Car
+./test\771d155cc37bb8c8.jpg,93,288,281,348,Car
+./test\771d155cc37bb8c8.jpg,264,294,299,357,Car
+./test\771d155cc37bb8c8.jpg,374,243,562,396,Car
+./test\771d155cc37bb8c8.jpg,558,312,611,360,Car
+./test\771d155cc37bb8c8.jpg,916,296,977,330,Car
+./test\771d155cc37bb8c8.jpg,938,272,961,297,Car
+./test\771d155cc37bb8c8.jpg,974,231,1306,468,Car
+./test\771d155cc37bb8c8.jpg,986,270,1024,297,Car
+./test\771d155cc37bb8c8.jpg,1019,272,1039,282,Car
+./test\771d155cc37bb8c8.jpg,1024,279,1039,297,Car
+./test\771d155cc37bb8c8.jpg,1287,275,1477,375,Car
+./test\771d155cc37bb8c8.jpg,1399,320,1599,537,Car
+./test\771d155cc37bb8c8.jpg,1405,297,1579,360,Car
+./test\796312a8882fad42.jpg,1434,890,1928,1134,Car
+./test\796312a8882fad42.jpg,2356,814,2976,1272,Car
+./test\7ca595582fe15716.jpg,699,416,967,588,Car
+./test\7cde433fdc666a1a.jpg,0,166,1022,657,Car
+./test\7cde433fdc666a1a.jpg,42,179,225,240,Car
+./test\7cde433fdc666a1a.jpg,218,175,410,240,Car
+./test\7cde433fdc666a1a.jpg,371,167,538,243,Car
+./test\7cde433fdc666a1a.jpg,487,187,1022,518,Car
+./test\7cde433fdc666a1a.jpg,542,186,677,236,Car
+./test\7cde433fdc666a1a.jpg,659,189,807,228,Car
+./test\7cde433fdc666a1a.jpg,771,186,920,237,Car
+./test\7cde433fdc666a1a.jpg,867,195,958,221,Car
+./test\7ce3ef69e71b1037.jpg,211,519,259,540,Vehicle registration plate
+./test\7ce3ef69e71b1037.jpg,12,420,300,610,Car
+./test\7ce3ef69e71b1037.jpg,245,307,686,478,Car
+./test\7ce3ef69e71b1037.jpg,334,717,611,767,Car
+./test\7ce3ef69e71b1037.jpg,380,238,590,350,Car
+./test\7ce3ef69e71b1037.jpg,519,292,798,436,Car
+./test\7ce3ef69e71b1037.jpg,913,0,931,20,Car
+./test\7ce3ef69e71b1037.jpg,917,524,1022,767,Car
+./test\7d77b23e489dc89a.jpg,501,652,576,695,Vehicle registration plate
+./test\7d9cde3188dcc105.jpg,47,500,2370,1793,Car
+./test\7d9cde3188dcc105.jpg,1643,1098,2045,1202,Vehicle registration plate
+./test\7d9cde3188dcc105.jpg,184,667,345,711,Car
+./test\7d9cde3188dcc105.jpg,330,626,471,773,Car
+./test\7d9cde3188dcc105.jpg,684,741,750,810,Car
+./test\7f05e02d46e69416.jpg,17,39,954,734,Car
+./test\7f05e02d46e69416.jpg,0,28,339,383,Car
+./test\7f05e02d46e69416.jpg,833,101,1022,356,Car
+./test\7f05e02d46e69416.jpg,896,71,1022,162,Car
+./test\805fb8ded7264b03.jpg,307,2537,462,2619,Vehicle registration plate
+./test\805fb8ded7264b03.jpg,3832,2007,3935,2049,Vehicle registration plate
+./test\805fb8ded7264b03.jpg,287,1952,2815,2799,Car
+./test\805fb8ded7264b03.jpg,3362,1767,3997,2262,Car
+./test\8175301caa4b7a58.jpg,2504,1237,5568,3752,Car
+./test\8175301caa4b7a58.jpg,3222,3042,4064,3335,Vehicle registration plate
+./test\817e4662ba3d8028.jpg,0,2675,1007,3215,Car
+./test\817e4662ba3d8028.jpg,1620,2489,2556,2864,Car
+./test\817e4662ba3d8028.jpg,1647,2411,4317,2907,Car
+./test\817e4662ba3d8028.jpg,2535,2484,3094,2729,Car
+./test\817e4662ba3d8028.jpg,3094,2419,3493,2624,Car
+./test\817e4662ba3d8028.jpg,3267,2462,3879,2675,Car
+./test\817e4662ba3d8028.jpg,3734,2435,4317,2902,Car
+./test\8380bf66ed7337af.jpg,2378,2086,2549,2139,Vehicle registration plate
+./test\83ba13031b191bd1.jpg,282,118,294,127,Vehicle registration plate
+./test\83e1ed9d4fbbba5a.jpg,1992,3690,2845,4121,Car
+./test\841a4593318f2eaa.jpg,0,921,386,1206,Car
+./test\841a4593318f2eaa.jpg,258,921,959,1280,Car
+./test\841a4593318f2eaa.jpg,659,1022,4339,2279,Car
+./test\841a4593318f2eaa.jpg,941,900,1660,1340,Car
+./test\841a4593318f2eaa.jpg,1841,909,2542,1176,Car
+./test\841a4593318f2eaa.jpg,3480,876,4466,1176,Car
+./test\841a4593318f2eaa.jpg,4455,974,4749,1153,Car
+./test\84e68931d51a0bfa.jpg,478,529,666,589,Vehicle registration plate
+./test\84e68931d51a0bfa.jpg,231,87,888,654,Car
+./test\84e68931d51a0bfa.jpg,897,132,1022,268,Car
+./test\86258c46fa0e26ba.jpg,110,39,1077,846,Car
+./test\86d5961b8b047e48.jpg,677,672,737,694,Vehicle registration plate
+./test\86d5961b8b047e48.jpg,1121,621,1151,643,Vehicle registration plate
+./test\86d5961b8b047e48.jpg,1084,574,1151,655,Car
+./test\87042a5a8fe0f590.jpg,0,1001,2932,3996,Car
+./test\87042a5a8fe0f590.jpg,2047,694,3941,2225,Car
+./test\87042a5a8fe0f590.jpg,5190,810,5996,1279,Car
+./test\87042a5a8fe0f590.jpg,5216,855,5445,1245,Car
+./test\875fe0de51128f34.jpg,1213,611,1300,668,Vehicle registration plate
+./test\875fe0de51128f34.jpg,1567,585,1599,624,Vehicle registration plate
+./test\875fe0de51128f34.jpg,111,416,1364,893,Car
+./test\875fe0de51128f34.jpg,140,264,299,414,Car
+./test\875fe0de51128f34.jpg,233,231,343,351,Car
+./test\875fe0de51128f34.jpg,638,327,1011,432,Car
+./test\875fe0de51128f34.jpg,994,225,1209,341,Car
+./test\875fe0de51128f34.jpg,1002,333,1324,432,Car
+./test\875fe0de51128f34.jpg,1078,380,1599,762,Car
+./test\886dca0cc0a98138.jpg,709,682,1757,1283,Vehicle registration plate
+./test\886dca0cc0a98138.jpg,1160,833,1421,922,Vehicle registration plate
+./test\886dca0cc0a98138.jpg,0,471,546,1519,Car
+./test\886dca0cc0a98138.jpg,383,42,1827,1420,Car
+./test\8a5e800c98b16750.jpg,1819,1116,3755,2323,Car
+./test\8a5e800c98b16750.jpg,2576,1861,3222,1997,Vehicle registration plate
+./test\8b8c5f924f5045bc.jpg,44,228,2729,1808,Car
+./test\8b8f6649331fb135.jpg,3362,1540,3959,1768,Vehicle registration plate
+./test\8b8f6649331fb135.jpg,76,427,1937,2050,Car
+./test\8b8f6649331fb135.jpg,790,307,4594,3069,Car
+./test\8b8f6649331fb135.jpg,4210,565,4679,2427,Car
+./test\8ce56eefcdb84d76.jpg,605,885,686,925,Vehicle registration plate
+./test\8ce56eefcdb84d76.jpg,325,550,478,762,Car
+./test\8ce56eefcdb84d76.jpg,380,612,820,976,Car
+./test\8ce56eefcdb84d76.jpg,806,616,820,748,Car
+./test\8d836e1e253f126b.jpg,0,594,497,773,Car
+./test\8d836e1e253f126b.jpg,737,594,768,624,Car
+./test\8dd91012845f46b3.jpg,0,544,825,1223,Car
+./test\8dd91012845f46b3.jpg,757,486,1478,819,Car
+./test\8dd91012845f46b3.jpg,1512,653,1662,777,Car
+./test\8dd91012845f46b3.jpg,1532,636,1670,690,Car
+./test\8e4697c0b33ce426.jpg,914,2199,3068,2959,Vehicle registration plate
+./test\8e4697c0b33ce426.jpg,0,686,344,1120,Car
+./test\8e4697c0b33ce426.jpg,0,0,4749,3165,Car
+./test\913357f3c9db4cb4.jpg,0,0,4924,3260,Car
+./test\92961b10deb98891.jpg,1071,966,1216,1052,Vehicle registration plate
+./test\93d3fc565a8db074.jpg,2740,1664,3515,2097,Car
+./test\93d3fc565a8db074.jpg,2090,1794,2124,1810,Vehicle registration plate
+./test\93d3fc565a8db074.jpg,3267,1819,3363,1867,Vehicle registration plate
+./test\93d3fc565a8db074.jpg,177,1762,323,1851,Car
+./test\93d3fc565a8db074.jpg,624,1723,1133,1814,Car
+./test\93d3fc565a8db074.jpg,927,0,3244,2733,Car
+./test\93d3fc565a8db074.jpg,1379,1723,1534,1762,Car
+./test\93d3fc565a8db074.jpg,1662,1728,1698,1757,Car
+./test\93d3fc565a8db074.jpg,1732,1714,1780,1757,Car
+./test\93d3fc565a8db074.jpg,1803,1723,1922,1808,Car
+./test\93d3fc565a8db074.jpg,1972,1737,2184,1878,Car
+./test\9401bb7fbeb488f7.jpg,0,1124,494,1328,Car
+./test\9401bb7fbeb488f7.jpg,0,1198,534,1613,Car
+./test\9401bb7fbeb488f7.jpg,1997,1067,2590,1443,Car
+./test\942719fe2c52b419.jpg,1200,323,1289,358,Car
+./test\942781e70848cc88.jpg,38,512,1311,1356,Car
+./test\942781e70848cc88.jpg,422,878,623,1004,Vehicle registration plate
+./test\94c9162ef188b18b.jpg,454,804,1278,924,Vehicle registration plate
+./test\94c9162ef188b18b.jpg,0,0,1599,966,Car
+./test\95b76ebafe7be1a2.jpg,99,112,1489,562,Car
+./test\962bf3fe3e18897c.jpg,397,338,1978,1417,Car
+./test\965b3accbe572033.jpg,0,497,2970,1893,Car
+./test\96df628395bcd05a.jpg,136,98,467,297,Car
+./test\96df628395bcd05a.jpg,484,335,549,365,Car
+./test\97e638b3de05679e.jpg,575,959,1086,1304,Car
+./test\97e638b3de05679e.jpg,830,934,2685,1991,Car
+./test\97e638b3de05679e.jpg,1949,984,3965,2973,Car
+./test\987e303b2184741d.jpg,707,445,950,531,Car
+./test\987e303b2184741d.jpg,1179,382,1667,614,Car
+./test\988e70c442a0cb96.jpg,2849,1748,3253,2021,Car
+./test\9ad6b382fe2d55d5.jpg,260,191,3053,2083,Car
+./test\9ad6b382fe2d55d5.jpg,578,936,1089,1140,Vehicle registration plate
+./test\9ad6b382fe2d55d5.jpg,3289,673,3362,724,Vehicle registration plate
+./test\9ad6b382fe2d55d5.jpg,0,113,1154,1189,Car
+./test\9ad6b382fe2d55d5.jpg,3274,524,3362,791,Car
+./test\9bd140278c363943.jpg,0,256,23,288,Car
+./test\9bd140278c363943.jpg,119,274,290,351,Car
+./test\9c5c60900c0d1775.jpg,534,612,580,639,Vehicle registration plate
+./test\a049353cd9cdbdac.jpg,173,402,1471,1020,Car
+./test\a049353cd9cdbdac.jpg,0,354,952,744,Car
+./test\a2b3f78e5ccd0910.jpg,0,588,762,730,Car
+./test\a31ba9429d547936.jpg,26,72,620,380,Vehicle registration plate
+./test\a40d95fd7219db35.jpg,1939,1742,2011,1763,Vehicle registration plate
+./test\a40d95fd7219db35.jpg,1814,1612,2075,1853,Car
+./test\a43ed191c5e6a6e3.jpg,1295,2427,2215,2957,Car
+./test\a43ed191c5e6a6e3.jpg,605,2640,702,2687,Vehicle registration plate
+./test\a43ed191c5e6a6e3.jpg,1472,2882,1642,2987,Vehicle registration plate
+./test\a43ed191c5e6a6e3.jpg,3462,2882,3630,2977,Vehicle registration plate
+./test\a43ed191c5e6a6e3.jpg,447,2460,1087,2885,Car
+./test\a43ed191c5e6a6e3.jpg,985,2517,1275,2812,Car
+./test\a43ed191c5e6a6e3.jpg,2360,2662,2555,2792,Car
+./test\a43ed191c5e6a6e3.jpg,2725,2682,2792,2859,Car
+./test\a43ed191c5e6a6e3.jpg,2777,2677,2835,2874,Car
+./test\a43ed191c5e6a6e3.jpg,2782,2642,2912,2910,Car
+./test\a43ed191c5e6a6e3.jpg,2825,2589,3150,2977,Car
+./test\a44ae01af40e604d.jpg,129,68,1552,1077,Car
+./test\a44ae01af40e604d.jpg,583,670,1405,872,Vehicle registration plate
+./test\a50b693b2c4cc734.jpg,3085,970,3444,1176,Vehicle registration plate
+./test\a50b693b2c4cc734.jpg,0,593,4125,1455,Car
+./test\a5a8ebf58e826406.jpg,758,1357,956,1415,Vehicle registration plate
+./test\a5f00159df78f911.jpg,0,172,76,333,Car
+./test\a5f00159df78f911.jpg,479,182,589,252,Car
+./test\a5f00159df78f911.jpg,526,176,617,380,Car
+./test\a6e33e113c91c7e6.jpg,240,2012,312,2057,Vehicle registration plate
+./test\a6e33e113c91c7e6.jpg,627,2002,652,2030,Vehicle registration plate
+./test\a6e33e113c91c7e6.jpg,50,1800,587,2289,Car
+./test\a6e33e113c91c7e6.jpg,125,1959,2357,2512,Car
+./test\a6e33e113c91c7e6.jpg,225,1809,747,2090,Car
+./test\a7bd32cd3e5ed4ec.jpg,988,243,1280,436,Car
+./test\a7bd32cd3e5ed4ec.jpg,8,199,176,265,Car
+./test\a7bd32cd3e5ed4ec.jpg,60,175,260,249,Car
+./test\a7bd32cd3e5ed4ec.jpg,260,142,403,166,Car
+./test\a7bd32cd3e5ed4ec.jpg,451,166,494,178,Car
+./test\a7bd32cd3e5ed4ec.jpg,1021,157,1279,180,Car
+./test\a7bd32cd3e5ed4ec.jpg,1132,627,1279,718,Car
+./test\a906b079ca012d1b.jpg,0,1734,988,3452,Car
+./test\a906b079ca012d1b.jpg,537,486,4548,2943,Car
+./test\a906b079ca012d1b.jpg,2258,304,5180,1841,Car
+./test\a906b079ca012d1b.jpg,3813,551,5067,836,Car
+./test\a906b079ca012d1b.jpg,3826,538,5122,1056,Car
+./test\a93956d6c3469789.jpg,202,840,771,1606,Car
+./test\a93956d6c3469789.jpg,432,1303,704,1387,Vehicle registration plate
+./test\a93956d6c3469789.jpg,1576,375,1877,450,Vehicle registration plate
+./test\a9f2f7d6f99ce309.jpg,2674,1999,2792,2074,Vehicle registration plate
+./test\ac0b2a60e4fb47f1.jpg,0,591,323,767,Car
+./test\ac0b2a60e4fb47f1.jpg,0,609,773,1082,Car
+./test\ac0b2a60e4fb47f1.jpg,0,587,3342,1317,Car
+./test\ac0b2a60e4fb47f1.jpg,323,591,1567,1154,Car
+./test\ac0b2a60e4fb47f1.jpg,2495,618,3353,1317,Car
+./test\ac0b2a60e4fb47f1.jpg,3260,681,3337,803,Car
+./test\ac0b2a60e4fb47f1.jpg,3346,776,3515,1918,Car
+./test\adcc55cf11d928ea.jpg,1419,845,1445,913,Vehicle registration plate
+./test\adcc55cf11d928ea.jpg,125,446,1445,1071,Car
+./test\adcc55cf11d928ea.jpg,608,425,1630,863,Car
+./test\adcc55cf11d928ea.jpg,886,419,1563,632,Car
+./test\adcc55cf11d928ea.jpg,1565,531,1630,672,Car
+./test\ae18a91342d8b7c7.jpg,133,402,1471,870,Car
+./test\ae18a91342d8b7c7.jpg,4,660,70,861,Car
+./test\afa410b6000b884f.jpg,708,404,737,413,Vehicle registration plate
+./test\afa410b6000b884f.jpg,976,537,1038,552,Vehicle registration plate
+./test\afa410b6000b884f.jpg,1357,522,1405,534,Vehicle registration plate
+./test\afa410b6000b884f.jpg,565,338,590,362,Car
+./test\afa410b6000b884f.jpg,596,348,623,360,Car
+./test\afa410b6000b884f.jpg,617,350,658,381,Car
+./test\afa410b6000b884f.jpg,650,348,679,363,Car
+./test\afa410b6000b884f.jpg,805,357,881,422,Car
+./test\afa410b6000b884f.jpg,836,420,1092,590,Car
+./test\afa410b6000b884f.jpg,1154,410,1437,564,Car
+./test\b097b63bd7f2ca7c.jpg,173,183,1912,1357,Car
+./test\b0d3202e558a6418.jpg,288,387,1498,854,Car
+./test\b0d3202e558a6418.jpg,0,487,117,597,Car
+./test\b0d3202e558a6418.jpg,63,499,117,529,Car
+./test\b0d3202e558a6418.jpg,201,440,408,610,Car
+./test\b0d3202e558a6418.jpg,1028,450,1514,627,Car
+./test\b0d3202e558a6418.jpg,1387,496,1694,625,Car
+./test\b0d3202e558a6418.jpg,1532,489,1771,613,Car
+./test\b0d3202e558a6418.jpg,1662,501,1839,613,Car
+./test\b139352bc4c8ab23.jpg,0,0,799,585,Car
+./test\b28f83d8c467468f.jpg,19,221,602,375,Car
+./test\b38a925012cca249.jpg,1314,1323,1751,1701,Car
+./test\b38a925012cca249.jpg,265,1471,334,1532,Vehicle registration plate
+./test\b38a925012cca249.jpg,887,1408,945,1452,Vehicle registration plate
+./test\b38a925012cca249.jpg,1480,1495,1545,1532,Vehicle registration plate
+./test\b38a925012cca249.jpg,760,1228,1408,1654,Car
+./test\b5cee67c8bcc6ad6.jpg,42,650,71,675,Vehicle registration plate
+./test\b5d0d5fd8014394e.jpg,0,0,5180,3452,Car
+./test\b6e15fbf141cb2aa.jpg,1991,1009,2059,1128,Vehicle registration plate
+./test\b6e15fbf141cb2aa.jpg,197,429,593,586,Car
+./test\b6e15fbf141cb2aa.jpg,214,316,2075,1382,Car
+./test\b6e15fbf141cb2aa.jpg,334,447,565,565,Car
+./test\b6e15fbf141cb2aa.jpg,1226,397,1339,495,Car
+./test\b77033e09ea54a5a.jpg,0,0,3261,2445,Car
+./test\b7e6c3b48c0de86c.jpg,650,1097,1105,1366,Vehicle registration plate
+./test\b7e6c3b48c0de86c.jpg,148,120,2729,1595,Car
+./test\ba09ac63e45f02e9.jpg,72,115,559,330,Car
+./test\ba09ac63e45f02e9.jpg,80,582,568,826,Car
+./test\ba09ac63e45f02e9.jpg,86,1073,556,1279,Car
+./test\ba09ac63e45f02e9.jpg,652,112,1123,350,Car
+./test\ba09ac63e45f02e9.jpg,652,599,1134,846,Car
+./test\ba09ac63e45f02e9.jpg,662,1073,1161,1299,Car
+./test\ba1cdc3773b12815.jpg,919,986,1135,1167,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,350,491,543,663,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,363,645,551,816,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,377,797,553,969,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,388,948,563,1118,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,394,1101,576,1199,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,625,432,824,606,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,629,593,840,758,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,629,747,850,921,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,644,890,861,1068,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,656,1037,873,1197,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,859,369,1082,551,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,873,518,1092,702,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,884,671,1103,840,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,898,830,1109,999,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,1090,285,1311,483,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,1107,450,1313,615,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,1121,591,1330,771,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,1127,749,1336,924,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,1132,914,1332,1074,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,1134,1089,1330,1199,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,1326,186,1526,363,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,1328,384,1537,570,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,1332,582,1551,776,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,1349,761,1561,969,Vehicle registration plate
+./test\ba1cdc3773b12815.jpg,1361,975,1580,1118,Vehicle registration plate
+./test\bc224f3a6aa43176.jpg,0,95,4924,2965,Car
+./test\bd1f7158c2d956ee.jpg,10,1019,3376,2353,Car
+./test\bdd591ca8a8afa77.jpg,0,463,237,1144,Car
+./test\bdd591ca8a8afa77.jpg,510,231,1333,1132,Car
+./test\bdd591ca8a8afa77.jpg,828,383,3768,2615,Car
+./test\bdd591ca8a8afa77.jpg,1936,127,2910,793,Car
+./test\bdd591ca8a8afa77.jpg,2898,98,3457,950,Car
+./test\bdd591ca8a8afa77.jpg,3353,0,4749,2472,Car
+./test\bdfee80eb4934127.jpg,1328,755,1391,807,Vehicle registration plate
+./test\bdfee80eb4934127.jpg,214,521,1448,1053,Car
+./test\be4ca553d88676fb.jpg,1487,992,1880,1102,Vehicle registration plate
+./test\be4ca553d88676fb.jpg,61,190,2096,1354,Car
+./test\be8e26f36d33264a.jpg,52,398,134,477,Car
+./test\be8e26f36d33264a.jpg,88,417,302,492,Car
+./test\be8e26f36d33264a.jpg,673,449,760,524,Car
+./test\bebb717817c33c2f.jpg,239,1183,401,1235,Vehicle registration plate
+./test\c089b3a5049b6346.jpg,334,129,1422,944,Car
+./test\c089b3a5049b6346.jpg,1067,761,1317,908,Vehicle registration plate
+./test\c089b3a5049b6346.jpg,1180,204,1242,224,Vehicle registration plate
+./test\c089b3a5049b6346.jpg,156,168,173,192,Car
+./test\c089b3a5049b6346.jpg,192,141,266,213,Car
+./test\c089b3a5049b6346.jpg,258,153,285,168,Car
+./test\c089b3a5049b6346.jpg,276,158,293,180,Car
+./test\c089b3a5049b6346.jpg,293,146,334,201,Car
+./test\c089b3a5049b6346.jpg,299,152,342,201,Car
+./test\c089b3a5049b6346.jpg,340,141,396,212,Car
+./test\c089b3a5049b6346.jpg,361,144,455,222,Car
+./test\c089b3a5049b6346.jpg,601,168,900,252,Car
+./test\c089b3a5049b6346.jpg,851,111,1287,323,Car
+./test\c0b062a14cfb92ca.jpg,1262,1303,1815,1578,Car
+./test\c0b062a14cfb92ca.jpg,1398,1421,1464,1458,Vehicle registration plate
+./test\c0b062a14cfb92ca.jpg,0,1246,312,1419,Car
+./test\c0b062a14cfb92ca.jpg,0,1279,1183,1583,Car
+./test\c0b062a14cfb92ca.jpg,1213,1246,1372,1353,Car
+./test\c0b062a14cfb92ca.jpg,1320,1240,1525,1338,Car
+./test\c0b062a14cfb92ca.jpg,1333,1264,1541,1348,Car
+./test\c0b062a14cfb92ca.jpg,2087,1258,2111,1306,Car
+./test\c17b2abbf29f2346.jpg,40,158,1777,1730,Car
+./test\c1cba442dfba55f4.jpg,491,1606,691,1671,Car
+./test\c1cba442dfba55f4.jpg,1151,1619,1297,1671,Car
+./test\c1cba442dfba55f4.jpg,3029,1651,4157,2017,Car
+./test\c2541bd389de5d93.jpg,265,1115,904,1461,Car
+./test\c2541bd389de5d93.jpg,478,1014,1095,1299,Car
+./test\c2541bd389de5d93.jpg,716,1412,1532,1718,Car
+./test\c2541bd389de5d93.jpg,1005,1191,1618,1503,Car
+./test\c2541bd389de5d93.jpg,1536,1471,2259,1739,Car
+./test\c2541bd389de5d93.jpg,1728,1727,2469,2089,Car
+./test\c33557b3ae9ee801.jpg,868,1312,1057,1420,Vehicle registration plate
+./test\c3baf8180d64a0e4.jpg,14,1086,442,1360,Car
+./test\c3baf8180d64a0e4.jpg,715,847,953,988,Car
+./test\c43652a7a1d27837.jpg,2009,1907,2920,2412,Car
+./test\c43652a7a1d27837.jpg,2847,1892,3260,2177,Car
+./test\c43652a7a1d27837.jpg,3220,1867,3420,2072,Car
+./test\c43652a7a1d27837.jpg,3375,1902,3487,2047,Car
+./test\c43652a7a1d27837.jpg,3437,1882,3565,2027,Car
+./test\c43652a7a1d27837.jpg,3552,1884,3997,1995,Car
+./test\c5ac67560d7b6a7a.jpg,1232,852,1496,944,Vehicle registration plate
+./test\c5ac67560d7b6a7a.jpg,316,331,1921,1308,Car
+./test\c68a9ae99b3310a7.jpg,0,703,855,1326,Car
+./test\c68a9ae99b3310a7.jpg,341,574,4256,2633,Car
+./test\c83784732762ca03.jpg,534,246,597,293,Vehicle registration plate
+./test\c83784732762ca03.jpg,0,138,640,389,Car
+./test\c89b906842ac90a4.jpg,242,735,3622,2502,Car
+./test\c89b906842ac90a4.jpg,1360,570,3997,937,Car
+./test\c89b906842ac90a4.jpg,1980,657,2622,762,Car
+./test\ca79d8071bad8959.jpg,248,495,1373,931,Car
+./test\ca79d8071bad8959.jpg,441,733,2474,1670,Car
+./test\cae7d533cf25f762.jpg,1608,537,1998,840,Car
+./test\cbf13a177485af10.jpg,389,78,1151,716,Car
+./test\cbf13a177485af10.jpg,556,465,795,528,Vehicle registration plate
+./test\cbf13a177485af10.jpg,924,61,1142,268,Car
+./test\cbf13a177485af10.jpg,1027,22,1142,80,Car
+./test\cbf13a177485af10.jpg,1092,47,1129,142,Car
+./test\cd1bcf68e9ab9edb.jpg,1129,1315,1592,1566,Car
+./test\cd1bcf68e9ab9edb.jpg,1385,1412,1472,1428,Vehicle registration plate
+./test\cd3efa233f6ffea4.jpg,0,295,675,772,Car
+./test\cd3efa233f6ffea4.jpg,0,297,2917,1756,Car
+./test\cf32a40f3643af21.jpg,259,726,284,753,Vehicle registration plate
+./test\cf4bb43f3963c10e.jpg,568,2445,792,2558,Vehicle registration plate
+./test\cf4bb43f3963c10e.jpg,0,2094,1843,2912,Car
+./test\cf4bb43f3963c10e.jpg,1377,2256,1463,2368,Car
+./test\cf4bb43f3963c10e.jpg,1516,2250,1793,2455,Car
+./test\cf4bb43f3963c10e.jpg,1730,2214,1896,2348,Car
+./test\d01bfb3c783f5d18.jpg,0,1797,1101,2445,Car
+./test\d01bfb3c783f5d18.jpg,1711,1729,3261,2445,Car
+./test\d0c1dcaad6e07183.jpg,459,1771,1020,2057,Car
+./test\d0c1dcaad6e07183.jpg,2127,1790,2354,1935,Car
+./test\d0c1dcaad6e07183.jpg,2664,1779,2892,1926,Car
+./test\d0c1dcaad6e07183.jpg,2831,1739,2939,1779,Car
+./test\d0c1dcaad6e07183.jpg,2947,1726,3011,1775,Car
+./test\d0e05c7223eefcf9.jpg,929,1381,1165,1621,Vehicle registration plate
+./test\d0e05c7223eefcf9.jpg,0,0,2846,1927,Car
+./test\d0f5ff204a8ff996.jpg,2902,1836,3261,2445,Car
+./test\d22db7d240c74395.jpg,120,107,1466,964,Car
+./test\d275cb959d859090.jpg,0,1121,3622,2589,Car
+./test\d45182d70a11cad5.jpg,1258,1338,1710,1759,Car
+./test\d4699c98cbb6ee8f.jpg,262,239,778,435,Car
+./test\d5d785e88efaf333.jpg,2634,1593,2689,1626,Vehicle registration plate
+./test\d5d785e88efaf333.jpg,2500,1443,2814,1772,Car
+./test\d5d785e88efaf333.jpg,2511,1408,2692,1515,Car
+./test\d662ae793c29037d.jpg,1705,795,1837,847,Vehicle registration plate
+./test\d662ae793c29037d.jpg,779,383,1967,900,Car
+./test\d662ae793c29037d.jpg,1473,286,1902,501,Car
+./test\d662ae793c29037d.jpg,2060,251,2406,457,Car
+./test\d662ae793c29037d.jpg,2310,251,2406,337,Car
+./test\d85841921201de11.jpg,5457,1599,5536,1711,Vehicle registration plate
+./test\d85841921201de11.jpg,496,1242,2851,2247,Car
+./test\d85841921201de11.jpg,1609,1228,3794,2071,Car
+./test\d85841921201de11.jpg,4777,1249,5756,2064,Car
+./test\d85841921201de11.jpg,5360,1419,5749,2017,Car
+./test\d93ebf68975e1ad5.jpg,0,330,315,787,Car
+./test\d93ebf68975e1ad5.jpg,5,252,576,456,Car
+./test\d940cd19c36dc24a.jpg,161,395,1319,876,Car
+./test\d940cd19c36dc24a.jpg,461,414,705,491,Car
+./test\d940cd19c36dc24a.jpg,828,396,1062,455,Car
+./test\d940cd19c36dc24a.jpg,927,402,1534,714,Car
+./test\d959a964fc67fb8c.jpg,50,2525,937,2937,Car
+./test\d9659592eb4b1c47.jpg,591,1501,775,1678,Vehicle registration plate
+./test\d9659592eb4b1c47.jpg,0,791,3068,2229,Car
+./test\d9659592eb4b1c47.jpg,218,742,242,762,Car
+./test\d9659592eb4b1c47.jpg,242,750,289,783,Car
+./test\d9659592eb4b1c47.jpg,318,767,365,791,Car
+./test\d9659592eb4b1c47.jpg,846,762,922,830,Car
+./test\d9659592eb4b1c47.jpg,1048,750,3143,981,Car
+./test\d9eff3d1260b04a9.jpg,0,444,1287,732,Car
+./test\d9eff3d1260b04a9.jpg,0,436,1768,1372,Car
+./test\d9eff3d1260b04a9.jpg,469,414,3015,2058,Car
+./test\d9eff3d1260b04a9.jpg,1144,403,1946,589,Car
+./test\d9eff3d1260b04a9.jpg,2733,393,3025,532,Car
+./test\d9eff3d1260b04a9.jpg,2754,426,3261,911,Car
+./test\daee2e013b4d2c1b.jpg,0,3013,501,3509,Car
+./test\daee2e013b4d2c1b.jpg,403,3078,685,3382,Car
+./test\daee2e013b4d2c1b.jpg,493,3065,1040,3338,Car
+./test\daee2e013b4d2c1b.jpg,924,3167,2005,3953,Car
+./test\daee2e013b4d2c1b.jpg,1813,3094,2271,3523,Car
+./test\daee2e013b4d2c1b.jpg,2206,3100,2442,3308,Car
+./test\daee2e013b4d2c1b.jpg,2382,3100,2485,3249,Car
+./test\dba9968879f2564a.jpg,0,2606,4433,3740,Car
+./test\dc2c6ae22c7ed5a0.jpg,778,193,1011,389,Car
+./test\dc93ad3847d4f69d.jpg,158,627,220,645,Vehicle registration plate
+./test\dc93ad3847d4f69d.jpg,358,480,408,585,Car
+./test\dda4818bbd2ced59.jpg,0,1077,128,1162,Vehicle registration plate
+./test\dda4818bbd2ced59.jpg,1870,995,2188,1085,Vehicle registration plate
+./test\de707769dd419777.jpg,2185,1794,2815,2037,Vehicle registration plate
+./test\de707769dd419777.jpg,1182,702,3397,2552,Car
+./test\de707769dd419777.jpg,1352,950,1430,1017,Car
+./test\de707769dd419777.jpg,1367,954,1822,1080,Car
+./test\df7d85d8f335ba6a.jpg,8,478,276,736,Car
+./test\df7d85d8f335ba6a.jpg,518,487,930,646,Car
+./test\df7d85d8f335ba6a.jpg,536,343,683,426,Car
+./test\df7d85d8f335ba6a.jpg,844,393,1084,481,Car
+./test\df7d85d8f335ba6a.jpg,942,577,1915,1020,Car
+./test\df7d85d8f335ba6a.jpg,1199,616,1736,1023,Car
+./test\df7d85d8f335ba6a.jpg,1574,440,2270,654,Car
+./test\df7d85d8f335ba6a.jpg,1810,583,1918,683,Car
+./test\e16fa91eb35e78d4.jpg,249,285,2489,1685,Car
+./test\e2b366016020974c.jpg,76,162,1554,815,Car
+./test\e4d50c48316a443d.jpg,2828,1685,3107,1804,Vehicle registration plate
+./test\e4d50c48316a443d.jpg,1117,1009,3239,1906,Car
+./test\e81ce2fca98fb2f9.jpg,369,643,519,711,Vehicle registration plate
+./test\e81ce2fca98fb2f9.jpg,382,1124,802,1272,Vehicle registration plate
+./test\e81ce2fca98fb2f9.jpg,0,280,1052,976,Car
+./test\e81ce2fca98fb2f9.jpg,128,80,3336,1885,Car
+./test\e81ce2fca98fb2f9.jpg,254,378,1341,776,Car
+./test\e81ce2fca98fb2f9.jpg,3191,378,3475,548,Car
+./test\e81ce2fca98fb2f9.jpg,3297,450,3475,754,Car
+./test\e887684723da3a75.jpg,82,321,3645,2254,Car
+./test\e9797de70dedc95b.jpg,0,16,4347,3253,Car
+./test\e982746cb469b34d.jpg,1089,2745,1619,3141,Car
+./test\e982746cb469b34d.jpg,1260,2921,1393,2966,Vehicle registration plate
+./test\e982746cb469b34d.jpg,0,2688,803,3057,Car
+./test\e982746cb469b34d.jpg,954,2745,1083,2868,Car
+./test\e9eec4f1f6391649.jpg,1256,2003,1705,2137,Vehicle registration plate
+./test\e9eec4f1f6391649.jpg,752,1425,2313,2445,Car
+./test\e9eec4f1f6391649.jpg,2033,1607,2156,1670,Car
+./test\e9eec4f1f6391649.jpg,2105,1568,2460,1829,Car
+./test\e9eec4f1f6391649.jpg,2337,1497,3261,2109,Car
+./test\ea8918de4fe341c4.jpg,0,158,1108,1863,Car
+./test\ea940ce83c729a35.jpg,470,1428,816,1571,Vehicle registration plate
+./test\ea940ce83c729a35.jpg,376,841,3111,1816,Car
+./test\eb0ae127d1041c71.jpg,81,218,444,447,Car
+./test\eb9b2b8bdd92269a.jpg,78,720,385,807,Vehicle registration plate
+./test\eb9b2b8bdd92269a.jpg,0,269,1028,1294,Car
+./test\eb9b2b8bdd92269a.jpg,882,480,1214,966,Car
+./test\eee32434d2e4ab59.jpg,3240,1642,3980,2137,Car
+./test\eee32434d2e4ab59.jpg,1547,2002,1647,2055,Vehicle registration plate
+./test\eee32434d2e4ab59.jpg,0,1732,287,2274,Car
+./test\eee32434d2e4ab59.jpg,1192,1800,1832,2244,Car
+./test\ef27d9126de485d8.jpg,1440,102,2732,1290,Car
+./test\ef27d9126de485d8.jpg,1632,797,1837,960,Vehicle registration plate
+./test\f0949a3e47d46ab4.jpg,171,310,471,489,Vehicle registration plate
+./test\f0949a3e47d46ab4.jpg,0,0,610,509,Car
+./test\f19e940da49a3405.jpg,2141,1711,3011,2070,Vehicle registration plate
+./test\f19e940da49a3405.jpg,126,17,5367,2602,Car
+./test\f3913942c822443d.jpg,243,1580,311,1635,Vehicle registration plate
+./test\f3913942c822443d.jpg,2171,1549,2227,1605,Vehicle registration plate
+./test\f3913942c822443d.jpg,0,1357,487,1795,Car
+./test\f3913942c822443d.jpg,1056,1294,2336,1843,Car
+./test\f3ecacf903a52827.jpg,1283,1331,1818,1688,Vehicle registration plate
+./test\f3ecacf903a52827.jpg,589,121,2866,2236,Car
+./test\f3ecacf903a52827.jpg,656,771,766,877,Car
+./test\f4a2740d015f1523.jpg,1447,506,1659,572,Vehicle registration plate
+./test\f4a2740d015f1523.jpg,120,114,1832,892,Car
+./test\f4c7abac302bede6.jpg,180,802,604,930,Vehicle registration plate
+./test\f4c7abac302bede6.jpg,0,0,1263,940,Car
+./test\f4c7abac302bede6.jpg,1140,0,1268,63,Car
+./test\f4c7abac302bede6.jpg,1140,0,1279,283,Car
+./test\f57700a3074ce5a9.jpg,0,338,469,410,Car
+./test\f57700a3074ce5a9.jpg,6,416,413,558,Car
+./test\f57700a3074ce5a9.jpg,609,359,690,371,Car
+./test\f57700a3074ce5a9.jpg,1474,441,1599,549,Car
+./test\f6c425408ef98596.jpg,998,1810,1248,1870,Vehicle registration plate
+./test\f6c425408ef98596.jpg,501,1422,556,1464,Car
+./test\f6c425408ef98596.jpg,537,1445,846,1731,Car
+./test\f6c425408ef98596.jpg,608,1493,1449,2179,Car
+./test\f6c425408ef98596.jpg,817,1418,913,1493,Car
+./test\f6c425408ef98596.jpg,1048,1418,1307,1560,Car
+./test\f6fac74f635f0b65.jpg,576,635,706,729,Car
+./test\f6fac74f635f0b65.jpg,430,611,576,717,Car
+./test\f6fac74f635f0b65.jpg,840,603,943,730,Car
+./test\f6fc2cad4946d265.jpg,769,1304,3878,2847,Vehicle registration plate
+./test\f868e041711c92d7.jpg,0,0,5180,3452,Car
+./test\f904abfd113ef7cc.jpg,145,2005,763,2402,Car
+./test\f904abfd113ef7cc.jpg,285,2281,446,2331,Vehicle registration plate
+./test\f904abfd113ef7cc.jpg,3150,2053,3315,2108,Vehicle registration plate
+./test\f904abfd113ef7cc.jpg,0,2037,102,2242,Car
+./test\f904abfd113ef7cc.jpg,2929,1831,3290,2073,Car
+./test\f904abfd113ef7cc.jpg,3041,1845,3625,2299,Car
+./test\f904abfd113ef7cc.jpg,3383,1813,3645,2094,Car
+./test\f9271119f288ee88.jpg,202,199,1101,865,Car
+./test\f9271119f288ee88.jpg,336,633,477,792,Vehicle registration plate
+./test\f9271119f288ee88.jpg,1004,181,1112,208,Vehicle registration plate
+./test\f9271119f288ee88.jpg,268,88,919,145,Car
+./test\f9271119f288ee88.jpg,899,48,1232,364,Car
+./test\f9271119f288ee88.jpg,1220,120,1279,157,Car
+./test\faa74a34d48ea979.jpg,1535,3083,2373,3391,Vehicle registration plate
+./test\faa74a34d48ea979.jpg,123,1951,2582,3797,Car
+./test\faa74a34d48ea979.jpg,0,1713,554,2304,Car
+./test\faa74a34d48ea979.jpg,12,1740,1043,2674,Car
+./test\faa74a34d48ea979.jpg,1322,3597,2579,3870,Car
+./test\fab477c2bcc927fb.jpg,0,1498,260,1878,Car
+./test\fab477c2bcc927fb.jpg,1255,1550,1337,1666,Car
+./test\faed1e08dad967c0.jpg,2490,1219,3168,1488,Car
+./test\faed1e08dad967c0.jpg,0,1320,41,1418,Car
+./test\faed1e08dad967c0.jpg,25,1288,325,1439,Car
+./test\faed1e08dad967c0.jpg,283,1284,639,1456,Car
+./test\faed1e08dad967c0.jpg,660,1301,927,1484,Car
+./test\faed1e08dad967c0.jpg,1000,1301,1254,1488,Car
+./test\faed1e08dad967c0.jpg,1500,1288,1905,1509,Car
+./test\faed1e08dad967c0.jpg,3147,1215,3354,1521,Car
+./test\fdfea47fc0de6910.jpg,1900,1584,4536,2900,Car
+./test\fdfea47fc0de6910.jpg,4621,1307,4662,1400,Car
+./test\fe292d2459f8cb52.jpg,18,350,1490,1154,Car
+./test\fe292d2459f8cb52.jpg,0,155,93,232,Car
+./test\fe292d2459f8cb52.jpg,0,128,193,218,Car
+./test\fe292d2459f8cb52.jpg,0,174,265,282,Car
+./test\fe292d2459f8cb52.jpg,0,219,541,379,Car
+./test\fe292d2459f8cb52.jpg,0,263,850,721,Car
+./test\fe292d2459f8cb52.jpg,417,196,551,245,Car
+./test\fe292d2459f8cb52.jpg,1038,748,1630,1222,Car
+./test\fe292d2459f8cb52.jpg,1230,264,1316,309,Car
+./test\ff044694a30f720e.jpg,892,498,994,601,Car
+./test\ff044694a30f720e.jpg,899,538,1171,738,Car
+./test\ff044694a30f720e.jpg,1020,522,1199,630,Car
+./test\ff044694a30f720e.jpg,1196,511,1279,589,Car
+./test\ff1f88850a3bd9e9.jpg,0,3,1136,644,Car
+./test\ff1f88850a3bd9e9.jpg,0,0,2814,2110,Car
