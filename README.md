@@ -144,19 +144,25 @@
 
 * 모델통합 진행중. ( CV2 의 Videocapture 안에서 두 모델의 prediction 및 box 표시와, line detection 이 이루어질 수 있도록 해야함)
 
+### 2020.08.26 진행상황
+
+* 모델 통합 90%완료, 최적화 작업 필요
+
 ----
 
 ### 개발환경 
 
-* OS : Windows 10
+* OS : Windows 10 , GCP - ubuntu 18
 
-* GPU : RTX 2070
+* GPU : RTX 2070 , GCP - TESLA T4
 
-* CUDA : 10.0
+* CUDA : 10.0 
 
 * cuDNN : 7.4.1
 
 * tensorflow-gpu : 1.14 // numpy < 1.6 
+
+* GCP - tensorflow 2.2 
 
   * tensorflow 2.0.0 사용시 keras 앞에 `tensorflow.` 추가하면 모델 작동
 
@@ -171,14 +177,3 @@
     ```
 
 * keras : 2.1.3
-
----
-
-
-
-* Refer 하고 있는 github 주소
-
-  https://github.com/qjadud1994/CRNN-Keras
-  
-  https://github.com/RockyXu66/Faster_RCNN_for_Open_Images_Dataset_Keras
-
