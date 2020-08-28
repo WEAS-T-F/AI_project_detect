@@ -12,6 +12,16 @@
 
 ---
 
+## 2020.08.28 프로젝트 종료
+
+<img src="https://user-images.githubusercontent.com/58680436/91525638-eb1bd200-e93c-11ea-89bf-e52286c8907f.gif" alt="ezgif com-video-to-gif (1)" style="zoom:50%;" /><img src="https://user-images.githubusercontent.com/58680436/91525709-11da0880-e93d-11ea-8f5c-78783b34d5bf.JPG" alt="슬라이드18" style="zoom:50%;" />
+
+<img src="https://user-images.githubusercontent.com/58680436/91526041-beb48580-e93d-11ea-850a-f5f6fed208cf.gif" alt="ezgif com-resize (1)" style="zoom:50%;" />
+
+
+
+---
+
 
 
 ### 2020.08.05 license_plate_detection 추가 ( 3자리 번호판 생성 )
