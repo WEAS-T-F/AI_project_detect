@@ -3,6 +3,8 @@
 # AIPD : 불법주정차 자동 탐지 서비스 개발
 
 > 번호판 인식 기술과 Line Detecion 기술을 활용한 불법주차 탐지 프로젝트
+>
+> https://github.com/SquareCAT-kor/kor_license_plate_generator <- 학습데이터 생성기
 
 * 프로젝트 기간 : 2020.08.03~8.28
 * 팀원 : 5명
