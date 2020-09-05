@@ -3,6 +3,8 @@
 # AIPD : 불법주정차 자동 탐지 서비스 개발
 
 > 번호판 인식 기술과 Line Detecion 기술을 활용한 불법주차 탐지 프로젝트
+>
+> https://github.com/SquareCAT-kor/kor_license_plate_generator <- 학습데이터 생성기
 
 <img src="https://user-images.githubusercontent.com/58680436/92310939-a7d0fb80-efed-11ea-991a-2fca359700c9.JPG" alt="aipd_teampannel" style="zoom: 33%;" />
 
@@ -11,6 +13,16 @@
 * 팀명 : AIPD (AI _ Illegal Parking Detection)
 
 <img src="https://user-images.githubusercontent.com/58680436/89865262-5ef17700-dbe8-11ea-902d-3a75e3b5f14e.jpg" alt="Notes_200811_153445_d2a_1" style="zoom: 50%;" />
+
+---
+
+## 2020.08.28 프로젝트 종료
+
+<img src="https://user-images.githubusercontent.com/58680436/91525638-eb1bd200-e93c-11ea-89bf-e52286c8907f.gif" alt="ezgif com-video-to-gif (1)" style="zoom:50%;" /><img src="https://user-images.githubusercontent.com/58680436/91525709-11da0880-e93d-11ea-8f5c-78783b34d5bf.JPG" alt="슬라이드18" style="zoom:50%;" />
+
+<img src="https://user-images.githubusercontent.com/58680436/91526041-beb48580-e93d-11ea-850a-f5f6fed208cf.gif" alt="ezgif com-resize (1)" style="zoom:50%;" />
+
+
 
 ---
 
