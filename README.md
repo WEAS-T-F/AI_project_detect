@@ -4,6 +4,8 @@
 
 > 번호판 인식 기술과 Line Detecion 기술을 활용한 불법주차 탐지 프로젝트
 
+<img src="https://user-images.githubusercontent.com/58680436/92310939-a7d0fb80-efed-11ea-991a-2fca359700c9.JPG" alt="aipd_teampannel" style="zoom: 33%;" />
+
 * 프로젝트 기간 : 2020.08.03~8.28
 * 팀원 : 5명
 * 팀명 : AIPD (AI _ Illegal Parking Detection)

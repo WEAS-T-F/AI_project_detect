@@ -192,7 +192,7 @@ def crop_image(image, bboxes, classes=read_class_names(cfg.YOLO.CLASSES), show_l
 
 
         
-    return image[y1 : y2 , x1 : x2]
+    return image[int(y1) : int(y2) , int(x1) : int(x2)]
 
 
 
